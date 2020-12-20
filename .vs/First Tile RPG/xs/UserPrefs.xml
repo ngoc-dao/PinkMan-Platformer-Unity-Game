@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{572F6423-7877-A988-65DA-9FFE979F2FBC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="First Tile RPG" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Animations" expanded="True" />
+              <Node name="Samples" expanded="True" />
+              <Node name="Scripts" expanded="True" />
+              <Node name="Sprites" expanded="True">
+                <Node name="Pixel Adventure 1" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0ff1efd2-49ac-4725-8397-79d3514d3e1d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

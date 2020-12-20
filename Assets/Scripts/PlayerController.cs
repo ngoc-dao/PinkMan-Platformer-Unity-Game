@@ -1,19 +1,18 @@
-﻿using System;
-using System.Collections;
+﻿using System.Collections;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class PlayerController : Character
 {
     private float moveInput;
     public float jumpSpeed; // 18
     public float movementSpeed; // 6
-    public bool isFacingRight;
-    public bool isFacingLeft;
+    private bool isFacingRight;
+    private bool isFacingLeft;
 
     // for faster falling and high jumps
-    public float normalGravityScale = 8;
-    public float fallingGravityScale = 9;
-    public float lowJumpGravityScale = 4;
+    private float normalGravityScale = 8;
+    private float fallingGravityScale = 9;
+    private float lowJumpGravityScale = 4;
 
     //For ground detection
     private bool isGrounded = false;
@@ -22,7 +21,7 @@ public class PlayerController : MonoBehaviour
     public LayerMask groundLayer;
 
     //for multiple jumps
-    private int extraJumps; 
+    [HideInInspector] public int extraJumps; 
     public int extraJumpsValue; // 1
     public int jumpCount;
 
@@ -34,8 +33,19 @@ public class PlayerController : MonoBehaviour
     public bool wallSliding = false;
     public float wallSlidingSpeed; // 1
 
-    Rigidbody2D rb2d;
+    public Rigidbody2D rb2d;
     Animator animator;
+    public HealthBar healthBarPrefab;
+    [HideInInspector] public HealthBar healthBar;
+    public HitPoints hitPoints;
+    public Coroutine delayCoroutine = null;
+    public GameObject disappearPrefab;
+
+    private void OnEnable()
+    {
+        ResetCharacter();
+        GameManager.sharedInstance.playerScript = this;
+    }
 
     void Start()
     {
@@ -105,7 +115,14 @@ public class PlayerController : MonoBehaviour
     private void FixedUpdate()
     {
         moveInput = Input.GetAxisRaw("Horizontal");
-        rb2d.velocity = new Vector2(moveInput * movementSpeed, rb2d.velocity.y);
+
+        // If the player is not attacked and movement inputs are not delayed,
+        // move player according to movement inputs.
+        if (!hitPoints.playerIsHit && delayCoroutine == null)
+        {
+            rb2d.velocity = new Vector2(moveInput * movementSpeed, rb2d.velocity.y);  
+        }
+       
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
         isOnWall = Physics2D.OverlapCircle(wallCheck.position, wallCheckRadius, wallLayer);
     }
@@ -116,6 +133,23 @@ public class PlayerController : MonoBehaviour
         {
             // TODO: Implement point system for consumables
         }
+        if (collision.gameObject.CompareTag("CheckPoint"))
+        {
+            GameManager.sharedInstance.playerSpawnPoint.transform.position = collision.gameObject.transform.position;
+        }
+    }
+
+    public override void KillCharacter()
+    {
+        base.KillCharacter();
+        Instantiate(disappearPrefab, transform.position, Quaternion.identity);
+        Destroy(healthBar.gameObject, GameManager.sharedInstance.respawnDelay);
+    }
+
+    public void ResetCharacter()
+    {
+        print("player reset");
+        healthBar = Instantiate(healthBarPrefab);
     }
 
     private void OnDrawGizmos()
@@ -179,5 +213,10 @@ public class PlayerController : MonoBehaviour
             rb2d.gravityScale = fallingGravityScale;
         }
     }
-}
 
+    public IEnumerator Delay(float delayTime)
+    {
+        yield return new WaitForSeconds(delayTime);
+        delayCoroutine = null;
+    }
+}

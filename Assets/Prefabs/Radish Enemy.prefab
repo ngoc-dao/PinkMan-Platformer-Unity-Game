@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5980510727585474130}
-  m_Layer: 10
+  m_Layer: 14
   m_Name: Top Check
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44,9 +44,9 @@ GameObject:
   - component: {fileID: 4347882080270637116}
   - component: {fileID: 4347882080270637115}
   - component: {fileID: 1442202382311693592}
-  m_Layer: 10
+  m_Layer: 14
   m_Name: Radish Enemy
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -103,7 +103,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 686576935
-  m_SortingLayer: 5
+  m_SortingLayer: 6
   m_SortingOrder: 0
   m_Sprite: {fileID: -6077868597088469121, guid: 25a8550c1c9d550409ba5345a9a97ad2,
     type: 3}
@@ -195,12 +195,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9103a8abd33b349f992270cf05b07b57, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  startingHitPoints: 5
+  playerThrustY: 20
+  playerThrustX: 10
+  walkSpeed: 2
+  pauseTime: 1
+  canWander: 1
   topCheck: {fileID: 5980510727585474130}
   topCheckRadius: 0.4
   topCheckLayer:
     serializedVersion: 2
     m_Bits: 8192
   hitFromAbove: 0
-  playerThrust: 22
-  walkSpeed: 2
-  pauseTime: 1
+  disappearPrefab: {fileID: 6818633277599140819, guid: 5e4c9047c88f64a8199e2f6776df9189,
+    type: 3}
+  hitPoints: {fileID: 11400000, guid: a8c856e039fcf4145812292230966051, type: 2}

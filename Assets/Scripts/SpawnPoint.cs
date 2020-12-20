@@ -1,23 +1,39 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class SpawnPoint : MonoBehaviour
 {
     public GameObject prefabToSpawn;
+    public HitPoints hitPoints;
+    private GameObject spawnedObject;
 
-    // Start is called before the first frame update
     void Start()
     {
-        if (prefabToSpawn != null)
+        // Prevents two copies of player to spawn. Player is spawned through GameManager.
+        if (!prefabToSpawn.CompareTag("Player"))
         {
-            Instantiate(prefabToSpawn, transform.position, Quaternion.identity);
+            SpawnObject();
         }
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
-        
+        if (hitPoints.instantDeath || hitPoints.value <= 0)
+        {
+            if (!prefabToSpawn.CompareTag("Player"))
+            {
+                Destroy(spawnedObject);
+                SpawnObject();
+            }
+        }
+    }
+
+    public GameObject SpawnObject()
+    {
+        if (prefabToSpawn != null)
+        {
+            spawnedObject = Instantiate(prefabToSpawn, transform.position, Quaternion.identity);
+            return spawnedObject;
+        }
+        return null;
     }
 }

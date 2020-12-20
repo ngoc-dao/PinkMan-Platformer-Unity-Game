@@ -1,20 +1,28 @@
 ﻿using System.Collections;
 using UnityEngine;
 
+[RequireComponent(typeof(BoxCollider2D))]
+
 public class Radish : Enemy
 {
+    public float playerThrustY; // 20
+    public float playerThrustX;
+    public float walkSpeed;
+    public float pauseTime;
+    public bool canWander = true;
+
     public Transform topCheck;
     public float topCheckRadius; // 0.4
     public LayerMask topCheckLayer; // Player
     public bool hitFromAbove;
-    public float playerThrust; // 22
-    public float walkSpeed;
-    public float pauseTime;
+
 
     Rigidbody2D rb2d;
-    Coroutine disappearCoroutine;
+    Rigidbody2D playerRB;
     Coroutine pauseCoroutine;
     Animator animator;
+    public GameObject disappearPrefab;
+    public HitPoints hitPoints;
 
     void Start()
     {
@@ -22,13 +30,22 @@ public class Radish : Enemy
         rb2d = GetComponent<Rigidbody2D>();
     }
 
+    void Update()
+    {
+        animator.SetFloat("speed", Mathf.Abs(rb2d.velocity.x));
+    }
+
     void FixedUpdate()
     {
         hitFromAbove = Physics2D.OverlapCircle(topCheck.position, topCheckRadius, topCheckLayer);
 
-        if (pauseCoroutine == null)
+        if (canWander && pauseCoroutine == null)
         {
             rb2d.velocity = new Vector2(walkSpeed, rb2d.velocity.y);
+        }
+        else
+        {
+            rb2d.velocity = new Vector2(0, rb2d.velocity.y);
         }
         
         SetFacing();
@@ -37,48 +54,69 @@ public class Radish : Enemy
     private void OnCollisionStay2D(Collision2D collision)
     {
         // Checks if player collider on enemy from top, if so, kills enemy and plays animation
-        if (collision.gameObject.CompareTag("Player") && hitFromAbove)
+        if (collision.gameObject.CompareTag("Player"))
         {
-            Rigidbody2D rb = collision.gameObject.GetComponent<Rigidbody2D>();
-            print("Hit!");
-            if (rb != null)
-            {
-                rb.velocity = Vector2.up * playerThrust;
-            }
+            playerRB = collision.gameObject.GetComponent<Rigidbody2D>();
 
-            animator.SetTrigger("disappear");
-            if (disappearCoroutine == null)
+            if (hitFromAbove)
             {
-                disappearCoroutine = StartCoroutine(Disappear());
+                print("Hit!");
+                if (playerRB != null)
+                {
+                    playerRB.velocity = Vector2.up * playerThrustY;
+                }
+                Destroy(gameObject);
+                Instantiate(disappearPrefab, transform.position, Quaternion.identity);
             }
-        }               
-        
+            else
+            {
+                hitPoints.playerIsHit = true;
+
+                bool hitFromRight = playerRB.gameObject.transform.position.x >= transform.position.x;
+                bool hitFromLeft = playerRB.gameObject.transform.position.x < transform.position.x;
+                bool hitFromAbove = playerRB.gameObject.transform.position.y + 0.1f >= transform.position.y;
+                bool hitFromBelow = playerRB.gameObject.transform.position.y + 0.1f < transform.position.y;
+
+                if (hitFromRight && hitFromAbove)
+                {
+                    playerRB.velocity = new Vector2(playerThrustX, playerThrustY / 2);
+                }
+                else if (hitFromLeft && hitFromAbove)
+                {
+                    playerRB.velocity = new Vector2(-playerThrustX, playerThrustY / 2);
+                }
+                else if (hitFromRight && hitFromBelow)
+                {
+                    playerRB.velocity = new Vector2(playerThrustX, -playerThrustY / 2);
+                }
+                else
+                {
+                    playerRB.velocity = new Vector2(-playerThrustX,-playerThrustY / 2);
+                }
+                
+            }
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Endpoint"))
         {
-            if (pauseCoroutine == null)
+            if (canWander && pauseCoroutine == null)
             {
                 pauseCoroutine = StartCoroutine(PauseAndTurn(pauseTime));
             }
         }
-            
-    } 
-
-    // for playing death animation before removing enemy
-    private IEnumerator Disappear()
-    {
-        yield return new WaitForSeconds(0.5f);
-        gameObject.SetActive(false);
     }
-    
+
     private IEnumerator PauseAndTurn(float time)
     {
         rb2d.velocity = new Vector2(0, rb2d.velocity.y);
+
+        // Random.Range returns int inclusive of min & exclusive of max
+        animator.SetInteger("idle", Random.Range(1, 3));
+
         yield return new WaitForSeconds(time);
-        rb2d.velocity = new Vector2(walkSpeed, rb2d.velocity.y);
         walkSpeed *= -1;
         pauseCoroutine = null;
     }

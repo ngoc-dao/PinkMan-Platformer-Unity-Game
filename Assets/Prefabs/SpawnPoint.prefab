@@ -44,3 +44,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefabToSpawn: {fileID: 0}
+  hitPoints: {fileID: 11400000, guid: a8c856e039fcf4145812292230966051, type: 2}

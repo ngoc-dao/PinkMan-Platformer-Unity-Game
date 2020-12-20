@@ -1,0 +1,3905 @@
+fileFormatVersion: 2
+guid: 3c4913134f5f84dc0bc8d89327be5f0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2988793443891313888
+    second: heartshealth 1_0
+  - first:
+      213: 8959567719093669338
+    second: heartshealth 1_1
+  - first:
+      213: -7516653039452246264
+    second: heartshealth 1_2
+  - first:
+      213: 3714656679160408202
+    second: heartshealth 1_3
+  - first:
+      213: -8934814233419423902
+    second: heartshealth 1_4
+  - first:
+      213: 8386107385335520595
+    second: heartshealth 1_5
+  - first:
+      213: -5199356551130670733
+    second: heartshealth 1_6
+  - first:
+      213: 8894883726720180890
+    second: heartshealth 1_7
+  - first:
+      213: -1779611124732421644
+    second: heartshealth 1_8
+  - first:
+      213: 4481189264962638894
+    second: heartshealth 1_9
+  - first:
+      213: -4661843292108115953
+    second: heartshealth 1_10
+  - first:
+      213: -167881957745940518
+    second: heartshealth 1_11
+  - first:
+      213: 7262126750668981743
+    second: heartshealth 1_12
+  - first:
+      213: -3563084835726019095
+    second: heartshealth 1_13
+  - first:
+      213: -6733023514143709605
+    second: heartshealth 1_14
+  - first:
+      213: 5088305885676439062
+    second: heartshealth 1_15
+  - first:
+      213: -1108342738248419998
+    second: heartshealth 1_16
+  - first:
+      213: -8870605934730956911
+    second: heartshealth 1_17
+  - first:
+      213: -568945853935606137
+    second: heartshealth 1_18
+  - first:
+      213: 6728664181375075722
+    second: heartshealth 1_19
+  - first:
+      213: -3138303123710528211
+    second: heartshealth 1_20
+  - first:
+      213: 8251650752735260976
+    second: heartshealth 1_21
+  - first:
+      213: -5018453958760751370
+    second: heartshealth 1_22
+  - first:
+      213: -2640270833561085753
+    second: heartshealth 1_23
+  - first:
+      213: -2757651967340837363
+    second: heartshealth 1_24
+  - first:
+      213: -632223177819991703
+    second: heartshealth 1_25
+  - first:
+      213: 3721885587862121979
+    second: heartshealth 1_26
+  - first:
+      213: -7533233859104674581
+    second: heartshealth 1_27
+  - first:
+      213: -7660914735470666647
+    second: heartshealth 1_28
+  - first:
+      213: -1489975870186982887
+    second: heartshealth 1_29
+  - first:
+      213: -6919423319073439676
+    second: heartshealth 1_30
+  - first:
+      213: -5195375207429153222
+    second: heartshealth 1_31
+  - first:
+      213: 7592995857795974394
+    second: heartshealth 1_32
+  - first:
+      213: -6748939329913708518
+    second: heartshealth 1_33
+  - first:
+      213: -9113643789517581369
+    second: heartshealth 1_34
+  - first:
+      213: 527803058054132363
+    second: heartshealth 1_35
+  - first:
+      213: 777109731734683201
+    second: heartshealth 1_36
+  - first:
+      213: -4185417900741799129
+    second: heartshealth 1_37
+  - first:
+      213: -7845776539810312869
+    second: heartshealth 1_38
+  - first:
+      213: -2213074596827070260
+    second: heartshealth 1_39
+  - first:
+      213: -249997175550535273
+    second: heartshealth 1_40
+  - first:
+      213: -2450244414190719170
+    second: heartshealth 1_41
+  - first:
+      213: 3376600038365670185
+    second: heartshealth 1_42
+  - first:
+      213: -7890800947135757105
+    second: heartshealth 1_43
+  - first:
+      213: 1028898888236463633
+    second: heartshealth 1_44
+  - first:
+      213: 8196793412197094970
+    second: heartshealth 1_45
+  - first:
+      213: -7538731004147710994
+    second: heartshealth 1_46
+  - first:
+      213: -8801523205807939260
+    second: heartshealth 1_47
+  - first:
+      213: -12035035425095245
+    second: heartshealth 1_48
+  - first:
+      213: 7443516494031891304
+    second: heartshealth 1_49
+  - first:
+      213: 5760206305309238543
+    second: heartshealth 1_50
+  - first:
+      213: 7757474931453952985
+    second: heartshealth 1_51
+  - first:
+      213: -2144573369940977193
+    second: heartshealth 1_52
+  - first:
+      213: 6644249602244307722
+    second: heartshealth 1_53
+  - first:
+      213: -8815911925326899933
+    second: heartshealth 1_54
+  - first:
+      213: -5702759974985614311
+    second: heartshealth 1_55
+  - first:
+      213: -6143453373164867225
+    second: heartshealth 1_56
+  - first:
+      213: 6708859704155548582
+    second: heartshealth 1_57
+  - first:
+      213: -4681348983310920212
+    second: heartshealth 1_58
+  - first:
+      213: 1733670642088356456
+    second: heartshealth 1_59
+  - first:
+      213: -6150955214236105385
+    second: heartshealth 1_60
+  - first:
+      213: 905906182263630234
+    second: heartshealth 1_61
+  - first:
+      213: 5681178415882035416
+    second: heartshealth 1_62
+  - first:
+      213: -6591276839947193603
+    second: heartshealth 1_63
+  - first:
+      213: 5319338752097950151
+    second: heartshealth 1_64
+  - first:
+      213: 4859676560977663252
+    second: heartshealth 1_65
+  - first:
+      213: 5992224769622827705
+    second: heartshealth 1_66
+  - first:
+      213: 6408512115282586684
+    second: heartshealth 1_67
+  - first:
+      213: -262515271870529767
+    second: heartshealth 1_68
+  - first:
+      213: 573484800829522657
+    second: heartshealth 1_69
+  - first:
+      213: 7213164821121593873
+    second: heartshealth 1_70
+  - first:
+      213: -7213019269770565117
+    second: heartshealth 1_71
+  - first:
+      213: 5904347430205273976
+    second: heartshealth 1_72
+  - first:
+      213: -8411709721083385955
+    second: heartshealth 1_73
+  - first:
+      213: -4818899588583282566
+    second: heartshealth 1_74
+  - first:
+      213: -3274533710253416710
+    second: heartshealth 1_75
+  - first:
+      213: 176062384075567137
+    second: heartshealth 1_76
+  - first:
+      213: -1091168548134490499
+    second: heartshealth 1_77
+  - first:
+      213: 7100185643543319458
+    second: heartshealth 1_78
+  - first:
+      213: -7261691998478231656
+    second: heartshealth 1_79
+  - first:
+      213: -25998407132167974
+    second: heartshealth 1_80
+  - first:
+      213: -4733299102669016127
+    second: heartshealth 1_81
+  - first:
+      213: -7874777903167764742
+    second: heartshealth 1_82
+  - first:
+      213: -917832810295838524
+    second: heartshealth 1_83
+  - first:
+      213: -84801411643432878
+    second: heartshealth 1_84
+  - first:
+      213: 1555287667953442994
+    second: heartshealth 1_85
+  - first:
+      213: -5060972108525224279
+    second: heartshealth 1_86
+  - first:
+      213: 7117308636943289709
+    second: heartshealth 1_87
+  - first:
+      213: -2049989229483441027
+    second: heartshealth 1_88
+  - first:
+      213: 3569558065626857116
+    second: heartshealth 1_89
+  - first:
+      213: 2775522154955896598
+    second: heartshealth 1_90
+  - first:
+      213: -2790318546181890956
+    second: heartshealth 1_91
+  - first:
+      213: -1883431029162304239
+    second: heartshealth 1_92
+  - first:
+      213: -4767250204924109591
+    second: heartshealth 1_93
+  - first:
+      213: -5591069486782309684
+    second: heartshealth 1_94
+  - first:
+      213: -1869784075072190382
+    second: heartshealth 1_95
+  - first:
+      213: -7926557651521799596
+    second: heartshealth 1_96
+  - first:
+      213: 2760074610599858958
+    second: heartshealth 1_97
+  - first:
+      213: -942394126199331672
+    second: heartshealth 1_98
+  - first:
+      213: -5603505786479796824
+    second: heartshealth 1_99
+  - first:
+      213: -3768072359160493315
+    second: heartshealth 1_100
+  - first:
+      213: -6588613927120689317
+    second: heartshealth 1_101
+  - first:
+      213: 2232871586218286091
+    second: heartshealth 1_102
+  - first:
+      213: -7887539974357521513
+    second: heartshealth 1_103
+  - first:
+      213: 4946018486934068369
+    second: heartshealth 1_104
+  - first:
+      213: 5070134971642640693
+    second: heartshealth 1_105
+  - first:
+      213: -8230447744413250381
+    second: heartshealth 1_106
+  - first:
+      213: 8118891373006668341
+    second: heartshealth 1_107
+  - first:
+      213: 281926366235006376
+    second: heartshealth 1_108
+  - first:
+      213: -3585385900707532484
+    second: heartshealth 1_109
+  - first:
+      213: 2288610951764776626
+    second: heartshealth 1_110
+  - first:
+      213: -7739976583185748327
+    second: heartshealth 1_111
+  - first:
+      213: -2039530658728105575
+    second: heartshealth 1_112
+  - first:
+      213: 6089059522748405334
+    second: heartshealth 1_113
+  - first:
+      213: -1051533750867241269
+    second: heartshealth 1_114
+  - first:
+      213: 5997342654319204499
+    second: heartshealth 1_115
+  - first:
+      213: 1044700088552137819
+    second: heartshealth 1_116
+  - first:
+      213: 5329596761533688544
+    second: heartshealth 1_117
+  - first:
+      213: 5056095520732300655
+    second: heartshealth 1_118
+  - first:
+      213: -2969102036651728498
+    second: heartshealth 1_119
+  - first:
+      213: -4253292602742245431
+    second: heartshealth 1_120
+  - first:
+      213: 5150829944376646774
+    second: heartshealth 1_121
+  - first:
+      213: 8142921918819583345
+    second: heartshealth 1_122
+  - first:
+      213: -4151624554098194398
+    second: heartshealth 1_123
+  - first:
+      213: 3663963437793457576
+    second: heartshealth 1_124
+  - first:
+      213: 1597585300735747484
+    second: heartshealth 1_125
+  - first:
+      213: 2986736657546922154
+    second: heartshealth 1_126
+  - first:
+      213: 3971067184645446394
+    second: heartshealth 1_127
+  - first:
+      213: 8159036766179887334
+    second: heartshealth 1_128
+  - first:
+      213: 4385671843349198947
+    second: heartshealth 1_129
+  - first:
+      213: 419068829982946572
+    second: heartshealth 1_130
+  - first:
+      213: -2452197190863703903
+    second: heartshealth 1_131
+  - first:
+      213: 4605021665852760171
+    second: heartshealth 1_132
+  - first:
+      213: -4621845571971502623
+    second: heartshealth 1_133
+  - first:
+      213: -867781677111309697
+    second: heartshealth 1_134
+  - first:
+      213: 3920614263517827836
+    second: heartshealth 1_135
+  - first:
+      213: -5623187844274987488
+    second: heartshealth 1_136
+  - first:
+      213: 4888709829227978902
+    second: heartshealth 1_137
+  - first:
+      213: 7757235074375955219
+    second: heartshealth 1_138
+  - first:
+      213: -13668264839185353
+    second: heartshealth 1_139
+  - first:
+      213: 6572211974352335940
+    second: heartshealth 1_140
+  - first:
+      213: 142058300462438325
+    second: heartshealth 1_141
+  - first:
+      213: -6923270630349433851
+    second: heartshealth 1_142
+  - first:
+      213: 1956542208204985780
+    second: heartshealth 1_143
+  - first:
+      213: 1293591413411599650
+    second: heartshealth 1_144
+  - first:
+      213: -7937138400751326418
+    second: heartshealth 1_145
+  - first:
+      213: -4912167192109205938
+    second: heartshealth 1_146
+  - first:
+      213: -1911857764720396354
+    second: heartshealth 1_147
+  - first:
+      213: -5424442746393120076
+    second: heartshealth 1_148
+  - first:
+      213: -7765511587256297242
+    second: heartshealth 1_149
+  - first:
+      213: -2834233899470814094
+    second: heartshealth 1_150
+  - first:
+      213: 2868521564134789537
+    second: heartshealth 1_151
+  - first:
+      213: -6625088323829106311
+    second: heartshealth 1_152
+  - first:
+      213: -6554956518401360682
+    second: heartshealth 1_153
+  - first:
+      213: -8132365464479718096
+    second: heartshealth 1_154
+  - first:
+      213: 6010867709263043895
+    second: heartshealth 1_155
+  - first:
+      213: 2108519812767909803
+    second: heartshealth 1_156
+  - first:
+      213: -9167930445110649633
+    second: heartshealth 1_157
+  - first:
+      213: -5815340876873773659
+    second: heartshealth 1_158
+  - first:
+      213: -5229296186794941550
+    second: heartshealth 1_159
+  - first:
+      213: 3829658038776943091
+    second: heartshealth 1_160
+  - first:
+      213: 8516448959167258672
+    second: heartshealth 1_161
+  - first:
+      213: -7925213731512358499
+    second: heartshealth 1_162
+  - first:
+      213: 1662281898007491600
+    second: heartshealth 1_163
+  - first:
+      213: 3812488255897519206
+    second: heartshealth 1_164
+  - first:
+      213: 3726908555686705758
+    second: heartshealth 1_165
+  - first:
+      213: 7314069535675887472
+    second: heartshealth 1_166
+  - first:
+      213: -3765954128179040285
+    second: heartshealth 1_167
+  - first:
+      213: 8149388293654250394
+    second: heartshealth 1_168
+  - first:
+      213: -5844071450673825368
+    second: heartshealth 1_169
+  - first:
+      213: -8000235912626975605
+    second: heartshealth 1_170
+  - first:
+      213: -3577201295358101564
+    second: heartshealth 1_171
+  - first:
+      213: 2936907069640715862
+    second: heartshealth 1_172
+  - first:
+      213: 1664680826829058621
+    second: heartshealth 1_173
+  - first:
+      213: 4238054076738211469
+    second: heartshealth 1_174
+  - first:
+      213: 5316878532020450159
+    second: heartshealth 1_175
+  - first:
+      213: -2845790818358571712
+    second: heartshealth 1_176
+  - first:
+      213: -583167231733071301
+    second: heartshealth 1_177
+  - first:
+      213: 5081065923912002808
+    second: heartshealth 1_178
+  - first:
+      213: 592943544831250775
+    second: heartshealth 1_179
+  - first:
+      213: -5675509749114209743
+    second: heartshealth 1_180
+  - first:
+      213: 4428381782537138356
+    second: heartshealth 1_181
+  - first:
+      213: -4247205807129370079
+    second: heartshealth 1_182
+  - first:
+      213: 8346493060485207467
+    second: heartshealth 1_183
+  - first:
+      213: -3021670851845946417
+    second: heartshealth 1_184
+  - first:
+      213: 6832856292168344952
+    second: heartshealth 1_185
+  - first:
+      213: 2929066094591763479
+    second: heartshealth 1_186
+  - first:
+      213: 1156119264681909347
+    second: heartshealth 1_187
+  - first:
+      213: -7816035720106652464
+    second: heartshealth 1_188
+  - first:
+      213: 7441406458291507985
+    second: heartshealth 1_189
+  - first:
+      213: 7603825435861257667
+    second: heartshealth 1_190
+  - first:
+      213: -6300841889484110059
+    second: heartshealth 1_191
+  - first:
+      213: 5571111204284410848
+    second: heartshealth 1_192
+  - first:
+      213: 5780103278736644513
+    second: heartshealth 1_193
+  - first:
+      213: -6270416888313538510
+    second: heartshealth 1_194
+  - first:
+      213: -6234841057894189806
+    second: heartshealth 1_195
+  - first:
+      213: 5028754461932537422
+    second: heartshealth 1_196
+  - first:
+      213: -8940792115645598915
+    second: heartshealth 1_197
+  - first:
+      213: -2804320348189002016
+    second: heartshealth 1_198
+  - first:
+      213: 3142072845463432742
+    second: heartshealth 1_199
+  - first:
+      213: 16419855272430689
+    second: heartshealth 1_200
+  - first:
+      213: -5386867996144425134
+    second: heartshealth 1_201
+  - first:
+      213: 8322140107806446789
+    second: heartshealth 1_202
+  - first:
+      213: -2641180167153789340
+    second: heartshealth 1_203
+  - first:
+      213: 9177947266356277788
+    second: heartshealth 1_204
+  - first:
+      213: -4453695448533175313
+    second: heartshealth 1_205
+  - first:
+      213: -4637209402672147288
+    second: heartshealth 1_206
+  - first:
+      213: -1724994319363012826
+    second: heartshealth 1_207
+  - first:
+      213: 5363481622017092210
+    second: heartshealth 1_208
+  - first:
+      213: -3908965651112621918
+    second: heartshealth 1_209
+  - first:
+      213: 4219518397345104189
+    second: heartshealth 1_210
+  - first:
+      213: 892919784975671981
+    second: heartshealth 1_211
+  - first:
+      213: 1047463142974644305
+    second: heartshealth 1_212
+  - first:
+      213: -8458423883847308286
+    second: heartshealth 1_213
+  - first:
+      213: 2908532328455706882
+    second: heartshealth 1_214
+  - first:
+      213: 1603941429376095274
+    second: heartshealth 1_215
+  - first:
+      213: 8754612977110862468
+    second: heartshealth 1_216
+  - first:
+      213: 6567001361581621671
+    second: heartshealth 1_217
+  - first:
+      213: -8322240064793627271
+    second: heartshealth 1_218
+  - first:
+      213: 8995561980161134253
+    second: heartshealth 1_219
+  - first:
+      213: -6760732419629643122
+    second: heartshealth 1_220
+  - first:
+      213: 2223561459360298146
+    second: heartshealth 1_221
+  - first:
+      213: 3702884563986842003
+    second: heartshealth 1_222
+  - first:
+      213: -2370314755017129312
+    second: heartshealth 1_223
+  - first:
+      213: -4302407203931705900
+    second: heartshealth 1_224
+  - first:
+      213: 6013423355481417955
+    second: heartshealth 1_225
+  - first:
+      213: -1881152654376118776
+    second: heartshealth 1_226
+  - first:
+      213: 8692771793386838669
+    second: heartshealth 1_227
+  - first:
+      213: -5803730172762766465
+    second: heartshealth 1_228
+  - first:
+      213: -4920682401662919410
+    second: heartshealth 1_229
+  - first:
+      213: 9206451765784901230
+    second: heartshealth 1_230
+  - first:
+      213: 457712044013301106
+    second: heartshealth 1_231
+  - first:
+      213: -2313961719581055545
+    second: heartshealth 1_232
+  - first:
+      213: -2904895669215009002
+    second: heartshealth 1_233
+  - first:
+      213: -2269225971820039743
+    second: heartshealth 1_234
+  - first:
+      213: -4741245524824441155
+    second: heartshealth 1_235
+  - first:
+      213: -6743423688476529510
+    second: heartshealth 1_236
+  - first:
+      213: -3438622635579871366
+    second: heartshealth 1_237
+  - first:
+      213: -6577868366569025083
+    second: heartshealth 1_238
+  - first:
+      213: -366413200650364111
+    second: heartshealth 1_239
+  - first:
+      213: 4323829918557235521
+    second: heartshealth 1_240
+  - first:
+      213: -679376885259904142
+    second: heartshealth 1_241
+  - first:
+      213: -2944109600658871530
+    second: heartshealth 1_242
+  - first:
+      213: -3764759704937583221
+    second: heartshealth 1_243
+  - first:
+      213: -7469282140805908088
+    second: heartshealth 1_244
+  - first:
+      213: -1743497236840575201
+    second: heartshealth 1_245
+  - first:
+      213: -4776373283950170541
+    second: heartshealth 1_246
+  - first:
+      213: -5477029027597104123
+    second: heartshealth 1_247
+  - first:
+      213: -6525120047052179162
+    second: heartshealth 1_248
+  - first:
+      213: -7665214078069210647
+    second: heartshealth 1_249
+  - first:
+      213: 4661236669125994312
+    second: heartshealth 1_250
+  - first:
+      213: -766558091020397181
+    second: heartshealth 1_251
+  - first:
+      213: -1492670353294853687
+    second: heartshealth 1_252
+  - first:
+      213: -730986104261409339
+    second: heartshealth 1_253
+  - first:
+      213: 5354033767828308573
+    second: heartshealth 1_254
+  - first:
+      213: 742950820899464357
+    second: heartshealth 1_255
+  - first:
+      213: 8478664006465654578
+    second: heartshealth 1_256
+  - first:
+      213: 6135208161424670786
+    second: heartshealth 1_257
+  - first:
+      213: 6170226739204461006
+    second: heartshealth 1_258
+  - first:
+      213: -1901420819053925006
+    second: heartshealth 1_259
+  - first:
+      213: 6623926223375868083
+    second: heartshealth 1_260
+  - first:
+      213: -2397907150537635762
+    second: heartshealth 1_261
+  - first:
+      213: -6266073753963763865
+    second: heartshealth 1_262
+  - first:
+      213: 2369966511121701979
+    second: heartshealth 1_263
+  - first:
+      213: -1719373957305344707
+    second: heartshealth 1_264
+  - first:
+      213: -3588576421512919353
+    second: heartshealth 1_265
+  - first:
+      213: 3629130270945759907
+    second: heartshealth 1_266
+  - first:
+      213: 2122420960576579773
+    second: heartshealth 1_267
+  - first:
+      213: -7152081680524087049
+    second: heartshealth 1_268
+  - first:
+      213: -6560910701007027113
+    second: heartshealth 1_269
+  - first:
+      213: -2737186076850868121
+    second: heartshealth 1_270
+  - first:
+      213: -3626465600319553850
+    second: heartshealth 1_271
+  - first:
+      213: 8463669059094867293
+    second: heartshealth 1_272
+  - first:
+      213: -6915581243751924010
+    second: heartshealth 1_273
+  - first:
+      213: -8678812515692594076
+    second: heartshealth 1_274
+  - first:
+      213: -613107770436851880
+    second: heartshealth 1_275
+  - first:
+      213: -9088284461138586070
+    second: heartshealth 1_276
+  - first:
+      213: 8696614178264968133
+    second: heartshealth 1_277
+  - first:
+      213: 3733893470050632037
+    second: heartshealth 1_278
+  - first:
+      213: 3903052415474798245
+    second: heartshealth 1_279
+  - first:
+      213: -1643628446922959103
+    second: heartshealth 1_280
+  - first:
+      213: 1446687736663907135
+    second: heartshealth 1_281
+  - first:
+      213: 547694902219618397
+    second: heartshealth 1_282
+  - first:
+      213: -8850309390025823448
+    second: heartshealth 1_283
+  - first:
+      213: -1604838319222129025
+    second: heartshealth 1_284
+  - first:
+      213: 6427912147124497159
+    second: heartshealth 1_285
+  - first:
+      213: -2695734425877794085
+    second: heartshealth 1_286
+  - first:
+      213: -5647516484739042885
+    second: heartshealth 1_287
+  - first:
+      213: 6134571484867354138
+    second: heartshealth 1_288
+  - first:
+      213: 7780306286359836871
+    second: heartshealth 1_289
+  - first:
+      213: -1129711827048240599
+    second: heartshealth 1_290
+  - first:
+      213: 1881568754209055210
+    second: heartshealth 1_291
+  - first:
+      213: 5771945653474282719
+    second: heartshealth 1_292
+  - first:
+      213: 8044992024932190981
+    second: heartshealth 1_293
+  - first:
+      213: -4276137752561966968
+    second: heartshealth 1_294
+  - first:
+      213: 2381460621933607724
+    second: heartshealth 1_295
+  - first:
+      213: -3099502436588205568
+    second: heartshealth 1_296
+  - first:
+      213: 1168039142412422292
+    second: heartshealth 1_297
+  - first:
+      213: 5774788856860409904
+    second: heartshealth 1_298
+  - first:
+      213: -6675632068109654192
+    second: heartshealth 1_299
+  - first:
+      213: -3823269687296551167
+    second: heartshealth 1_300
+  - first:
+      213: 8056990659472725757
+    second: heartshealth 1_301
+  - first:
+      213: -3616188290422535050
+    second: heartshealth 1_302
+  - first:
+      213: -7259357038341315439
+    second: heartshealth 1_303
+  - first:
+      213: -470698142965687043
+    second: heartshealth 1_304
+  - first:
+      213: 6163401556408539394
+    second: heartshealth 1_305
+  - first:
+      213: -547999934126387938
+    second: heartshealth 1_306
+  - first:
+      213: -2505637657382038779
+    second: heartshealth 1_307
+  - first:
+      213: -6697552594506947167
+    second: heartshealth 1_308
+  - first:
+      213: 8492903800412377714
+    second: heartshealth 1_309
+  - first:
+      213: 2761248506477113059
+    second: heartshealth 1_310
+  - first:
+      213: 5881397518256762907
+    second: heartshealth 1_311
+  - first:
+      213: -785817005968350599
+    second: heartshealth 1_312
+  - first:
+      213: 3315480131988068638
+    second: heartshealth 1_313
+  - first:
+      213: -6768721557495545402
+    second: heartshealth 1_314
+  - first:
+      213: 3231790591609041247
+    second: heartshealth 1_315
+  - first:
+      213: -6986487770265356763
+    second: heartshealth 1_316
+  - first:
+      213: -8095050373475822040
+    second: heartshealth 1_317
+  - first:
+      213: 1117495505356836235
+    second: heartshealth 1_318
+  - first:
+      213: 1134990559018714439
+    second: heartshealth 1_319
+  - first:
+      213: 7016983671624809375
+    second: heartshealth 1_320
+  - first:
+      213: -1450466287787627811
+    second: heartshealth 1_321
+  - first:
+      213: -4679762798543736531
+    second: heartshealth 1_322
+  - first:
+      213: -4861100986030599789
+    second: heartshealth 1_323
+  - first:
+      213: -2069295083071016505
+    second: heartshealth 1_324
+  - first:
+      213: -2128508479259137571
+    second: heartshealth 1_325
+  - first:
+      213: -3465973901955515706
+    second: heartshealth 1_326
+  - first:
+      213: 3675481694302562260
+    second: heartshealth 1_327
+  - first:
+      213: 617209812241866631
+    second: heartshealth 1_328
+  - first:
+      213: -2500241205214262306
+    second: heartshealth 1_329
+  - first:
+      213: -87311978997894030
+    second: heartshealth 1_330
+  - first:
+      213: -2679742440875845438
+    second: heartshealth 1_331
+  - first:
+      213: -3054420658251691506
+    second: heartshealth 1_332
+  - first:
+      213: -6170319822781591018
+    second: heartshealth 1_333
+  - first:
+      213: -997094069636261535
+    second: heartshealth 1_334
+  - first:
+      213: 2983030397692310523
+    second: heartshealth 1_335
+  - first:
+      213: 2008156542204205361
+    second: heartshealth 1_336
+  - first:
+      213: -8763469048855274615
+    second: heartshealth 1_337
+  - first:
+      213: -6209294801048903516
+    second: heartshealth 1_338
+  - first:
+      213: 8047226013208701753
+    second: heartshealth 1_339
+  - first:
+      213: -4068929789151162515
+    second: heartshealth 1_340
+  - first:
+      213: -6004460254374892632
+    second: heartshealth 1_341
+  - first:
+      213: -3460905314678047743
+    second: heartshealth 1_342
+  - first:
+      213: 5778727853035588327
+    second: heartshealth 1_343
+  - first:
+      213: 2931167877329087157
+    second: heartshealth 1_344
+  - first:
+      213: -1686185228260175501
+    second: heartshealth 1_345
+  - first:
+      213: -7105855847526830321
+    second: heartshealth 1_346
+  - first:
+      213: 2009226661263636869
+    second: heartshealth 1_347
+  - first:
+      213: -8505338238595684141
+    second: heartshealth 1_348
+  - first:
+      213: 3589102211811217319
+    second: heartshealth 1_349
+  - first:
+      213: 7145283733689860763
+    second: heartshealth 1_350
+  - first:
+      213: -7128785588914965043
+    second: heartshealth 1_351
+  - first:
+      213: 7803185052967746706
+    second: heartshealth 1_352
+  - first:
+      213: -7312050349171113801
+    second: heartshealth 1_353
+  - first:
+      213: -9073465773839555092
+    second: heartshealth 1_354
+  - first:
+      213: -1761566419519470766
+    second: heartshealth 1_355
+  - first:
+      213: -6392935046660928177
+    second: heartshealth 1_356
+  - first:
+      213: -4636258684011887812
+    second: heartshealth 1_357
+  - first:
+      213: -6309663427167510813
+    second: heartshealth 1_358
+  - first:
+      213: 1566439733919927783
+    second: heartshealth 1_359
+  - first:
+      213: -2480117954191742001
+    second: heartshealth 1_360
+  - first:
+      213: -7219024568353819338
+    second: heartshealth 1_361
+  - first:
+      213: -2439414705382415258
+    second: heartshealth 1_362
+  - first:
+      213: -1508823240288597644
+    second: heartshealth 1_363
+  - first:
+      213: -6240255994675532043
+    second: heartshealth 1_364
+  - first:
+      213: 3996503846742800164
+    second: heartshealth 1_365
+  - first:
+      213: 332780260004319015
+    second: heartshealth 1_366
+  - first:
+      213: -4283896721680167108
+    second: heartshealth 1_367
+  - first:
+      213: -5463862451068242571
+    second: heartshealth 1_368
+  - first:
+      213: -6121896924152468251
+    second: heartshealth 1_369
+  - first:
+      213: -6340522758441563549
+    second: heartshealth 1_370
+  - first:
+      213: 1619320266024703084
+    second: heartshealth 1_371
+  - first:
+      213: -3786675054333574238
+    second: heartshealth 1_372
+  - first:
+      213: -7298861506913464663
+    second: heartshealth 1_373
+  - first:
+      213: 5085175764143872286
+    second: heartshealth 1_374
+  - first:
+      213: -8473228252089191270
+    second: heartshealth 1_375
+  - first:
+      213: 3207523350268951558
+    second: heartshealth 1_376
+  - first:
+      213: -2272209219614989893
+    second: heartshealth 1_377
+  - first:
+      213: 5326767834553149017
+    second: heartshealth 1_378
+  - first:
+      213: 8179316921750509502
+    second: heartshealth 1_379
+  - first:
+      213: 6953696926274357176
+    second: heartshealth 1_380
+  - first:
+      213: -5004630187373434604
+    second: heartshealth 1_381
+  - first:
+      213: 716630015406296255
+    second: heartshealth 1_382
+  - first:
+      213: 8767515287313904995
+    second: heartshealth 1_383
+  - first:
+      213: -1743546280172575309
+    second: heartshealth 1_384
+  - first:
+      213: -4364903326269817816
+    second: heartshealth 1_385
+  - first:
+      213: -5690803158161849854
+    second: heartshealth 1_386
+  - first:
+      213: -7289231539500100254
+    second: heartshealth 1_387
+  - first:
+      213: 2905934775663472797
+    second: heartshealth 1_388
+  - first:
+      213: -2406022027912595974
+    second: heartshealth 1_389
+  - first:
+      213: -732171044698349690
+    second: heartshealth 1_390
+  - first:
+      213: -1816580340019072
+    second: heartshealth 1_391
+  - first:
+      213: -8679485550891751675
+    second: heartshealth 1_392
+  - first:
+      213: -7621951612378064989
+    second: heartshealth 1_393
+  - first:
+      213: -8680126230055599561
+    second: heartshealth 1_394
+  - first:
+      213: -595047519522071394
+    second: heartshealth 1_395
+  - first:
+      213: -5460597114593858662
+    second: heartshealth 1_396
+  - first:
+      213: 4656495636876487143
+    second: heartshealth 1_397
+  - first:
+      213: 5547037800400211134
+    second: heartshealth 1_398
+  - first:
+      213: 3807477063899395888
+    second: heartshealth 1_399
+  - first:
+      213: 8145899381188426050
+    second: heartshealth 1_400
+  - first:
+      213: -6756419232082006990
+    second: heartshealth 1_401
+  - first:
+      213: -588954118330974198
+    second: heartshealth 1_402
+  - first:
+      213: -902257787674766521
+    second: heartshealth 1_403
+  - first:
+      213: -6314160050968323594
+    second: heartshealth 1_404
+  - first:
+      213: 1624225430433901126
+    second: heartshealth 1_405
+  - first:
+      213: 819723416330424165
+    second: heartshealth 1_406
+  - first:
+      213: -2154953255132575472
+    second: heartshealth 1_407
+  - first:
+      213: 4804176959339239968
+    second: heartshealth 1_408
+  - first:
+      213: 2691204445427182280
+    second: heartshealth 1_409
+  - first:
+      213: -3284390397965766771
+    second: heartshealth 1_410
+  - first:
+      213: 4153912740606337786
+    second: heartshealth 1_411
+  - first:
+      213: -8750175963093371276
+    second: heartshealth 1_412
+  - first:
+      213: 8646855539174022074
+    second: heartshealth 1_413
+  - first:
+      213: 5190787904639331100
+    second: heartshealth 1_414
+  - first:
+      213: 4620268471208281239
+    second: heartshealth 1_415
+  - first:
+      213: -8027975812337189667
+    second: heartshealth 1_416
+  - first:
+      213: 5202340397985609065
+    second: heartshealth 1_417
+  - first:
+      213: 1692836962128066090
+    second: heartshealth 1_418
+  - first:
+      213: 8687231106305205588
+    second: heartshealth 1_419
+  - first:
+      213: 2218634541197792135
+    second: heartshealth 1_420
+  - first:
+      213: -5022356586710523044
+    second: heartshealth 1_421
+  - first:
+      213: -505805597107102595
+    second: heartshealth 1_422
+  - first:
+      213: 3619003329168586045
+    second: heartshealth 1_423
+  - first:
+      213: -2831446768768906361
+    second: heartshealth 1_424
+  - first:
+      213: -2714993694529250239
+    second: heartshealth 1_425
+  - first:
+      213: -1251214805944822056
+    second: heartshealth 1_426
+  - first:
+      213: -5848651047995139530
+    second: heartshealth 1_427
+  - first:
+      213: 5496944780283601512
+    second: heartshealth 1_428
+  - first:
+      213: -5001765198542795839
+    second: heartshealth 1_429
+  - first:
+      213: -387325839965438324
+    second: heartshealth 1_430
+  - first:
+      213: -4645114250390635874
+    second: heartshealth 1_431
+  - first:
+      213: 4725104846636016945
+    second: heartshealth 1_432
+  - first:
+      213: -2828428550118251173
+    second: heartshealth 1_433
+  - first:
+      213: -3982336949907574574
+    second: heartshealth 1_434
+  - first:
+      213: 8523226496769719349
+    second: heartshealth 1_435
+  - first:
+      213: 7334313232911246813
+    second: heartshealth 1_436
+  - first:
+      213: -2321003760321742927
+    second: heartshealth 1_437
+  - first:
+      213: 7227202125666365139
+    second: heartshealth 1_438
+  - first:
+      213: -490280889846074967
+    second: heartshealth 1_439
+  - first:
+      213: 2363816131321580575
+    second: heartshealth 1_440
+  - first:
+      213: 2344251577490386396
+    second: heartshealth 1_441
+  - first:
+      213: -8153124916105257461
+    second: heartshealth 1_442
+  - first:
+      213: -239167334308563414
+    second: heartshealth 1_443
+  - first:
+      213: 6155451423220355805
+    second: heartshealth 1_444
+  - first:
+      213: -1996856344349980690
+    second: heartshealth 1_445
+  - first:
+      213: -3032260150897603802
+    second: heartshealth 1_446
+  - first:
+      213: -1830287010418890569
+    second: heartshealth 1_447
+  - first:
+      213: 185279189595387586
+    second: heartshealth 1_448
+  - first:
+      213: 481149686883606563
+    second: heartshealth 1_449
+  - first:
+      213: 2736749528086163848
+    second: heartshealth 1_450
+  - first:
+      213: 3756116443658782370
+    second: heartshealth 1_451
+  - first:
+      213: -896481481976594062
+    second: heartshealth 1_452
+  - first:
+      213: -6969444231723949682
+    second: heartshealth 1_453
+  - first:
+      213: 5699370774272450997
+    second: heartshealth 1_454
+  - first:
+      213: -7362344856381125802
+    second: heartshealth 1_455
+  - first:
+      213: 3181309367119668505
+    second: heartshealth 1_456
+  - first:
+      213: -2698529608122153614
+    second: heartshealth 1_457
+  - first:
+      213: -1641202494718991950
+    second: heartshealth 1_458
+  - first:
+      213: -4583628379523281660
+    second: heartshealth 1_459
+  - first:
+      213: -386049420155087455
+    second: heartshealth 1_460
+  - first:
+      213: -3599398113880433393
+    second: heartshealth 1_461
+  - first:
+      213: -7158151303137190839
+    second: heartshealth 1_462
+  - first:
+      213: -464358847328007968
+    second: heartshealth 1_463
+  - first:
+      213: -5566312994563455763
+    second: heartshealth 1_464
+  - first:
+      213: 5238615981390545241
+    second: heartshealth 1_465
+  - first:
+      213: 1036722670849147083
+    second: heartshealth 1_466
+  - first:
+      213: -2857102921212415539
+    second: heartshealth 1_467
+  - first:
+      213: 2757794887248116052
+    second: heartshealth 1_468
+  - first:
+      213: -3996851707276108605
+    second: heartshealth 1_469
+  - first:
+      213: -4735716317419734609
+    second: heartshealth 1_470
+  - first:
+      213: 5285034410773767198
+    second: heartshealth 1_471
+  - first:
+      213: 7309296287057163793
+    second: heartshealth 1_472
+  - first:
+      213: -7568738447192618539
+    second: heartshealth 1_473
+  - first:
+      213: -3823992423936086171
+    second: heartshealth 1_474
+  - first:
+      213: -5388234935753552077
+    second: heartshealth 1_475
+  - first:
+      213: 6715989554770008831
+    second: heartshealth 1_476
+  - first:
+      213: 5063943721203851971
+    second: heartshealth 1_477
+  - first:
+      213: 714442386145134046
+    second: heartshealth 1_478
+  - first:
+      213: 6307099604103609519
+    second: heartshealth 1_479
+  - first:
+      213: 7659499767413545240
+    second: heartshealth 1_480
+  - first:
+      213: 6383226675309964944
+    second: heartshealth 1_481
+  - first:
+      213: 4436579414256135757
+    second: heartshealth 1_482
+  - first:
+      213: 6968551370951690486
+    second: heartshealth 1_483
+  - first:
+      213: 4469680500406150645
+    second: heartshealth 1_484
+  - first:
+      213: 8612242409293918846
+    second: heartshealth 1_485
+  - first:
+      213: 970087372399614007
+    second: heartshealth 1_486
+  - first:
+      213: -2121425023235732953
+    second: heartshealth 1_487
+  - first:
+      213: 5495125881771227021
+    second: heartshealth 1_488
+  - first:
+      213: 6713303635493407731
+    second: heartshealth 1_489
+  - first:
+      213: 415077334370583418
+    second: heartshealth 1_490
+  - first:
+      213: 6329479554774911018
+    second: heartshealth 1_491
+  - first:
+      213: 7941372119978359851
+    second: heartshealth 1_492
+  - first:
+      213: 5540714664332034699
+    second: heartshealth 1_493
+  - first:
+      213: -7267837603052356512
+    second: heartshealth 1_494
+  - first:
+      213: -6410262074689777855
+    second: heartshealth 1_495
+  - first:
+      213: 6207822460605013416
+    second: heartshealth 1_496
+  - first:
+      213: 3024212551273570917
+    second: heartshealth 1_497
+  - first:
+      213: 7390502988715756621
+    second: heartshealth 1_498
+  - first:
+      213: 4815221752887487637
+    second: heartshealth 1_499
+  - first:
+      213: 1323363945336476659
+    second: heartshealth 1_500
+  - first:
+      213: -2511960078539255848
+    second: heartshealth 1_501
+  - first:
+      213: -7244040489341829781
+    second: heartshealth 1_502
+  - first:
+      213: -5762598836328994970
+    second: heartshealth 1_503
+  - first:
+      213: 4744891143146775989
+    second: heartshealth 1_504
+  - first:
+      213: 8324235240675304408
+    second: heartshealth 1_505
+  - first:
+      213: 8366584499704336818
+    second: heartshealth 1_506
+  - first:
+      213: 5216389566096034405
+    second: heartshealth 1_507
+  - first:
+      213: -5865090840187566208
+    second: heartshealth 1_508
+  - first:
+      213: 2597872410501110160
+    second: heartshealth 1_509
+  - first:
+      213: -6552203318278543832
+    second: heartshealth 1_510
+  - first:
+      213: -3481483656004693971
+    second: heartshealth 1_511
+  - first:
+      213: 1472538097027836835
+    second: heartshealth 1_512
+  - first:
+      213: 2990140306673581314
+    second: heartshealth 1_513
+  - first:
+      213: -1941070963165873751
+    second: heartshealth 1_514
+  - first:
+      213: 1755983127375937098
+    second: heartshealth 1_515
+  - first:
+      213: 905611174196762387
+    second: heartshealth 1_516
+  - first:
+      213: 8997137988897758689
+    second: heartshealth 1_517
+  - first:
+      213: -246073034081571937
+    second: heartshealth 1_518
+  - first:
+      213: -8644089415052949770
+    second: heartshealth 1_519
+  - first:
+      213: 426588271816765079
+    second: heartshealth 1_520
+  - first:
+      213: -6445365431952711819
+    second: heartshealth 1_521
+  - first:
+      213: -2135411513280965991
+    second: heartshealth 1_522
+  - first:
+      213: 6181622628402320631
+    second: heartshealth 1_523
+  - first:
+      213: -2687914036146620790
+    second: heartshealth 1_524
+  - first:
+      213: 7538534134703218607
+    second: heartshealth 1_525
+  - first:
+      213: -2266899476845653226
+    second: heartshealth 1_526
+  - first:
+      213: 1052121412931128045
+    second: heartshealth 1_527
+  - first:
+      213: 8708795482870852983
+    second: heartshealth 1_528
+  - first:
+      213: 6520556717232637446
+    second: heartshealth 1_529
+  - first:
+      213: 6306367812453361631
+    second: heartshealth 1_530
+  - first:
+      213: -8061283432617183688
+    second: heartshealth 1_531
+  - first:
+      213: -2018807498039052492
+    second: heartshealth 1_532
+  - first:
+      213: -8011810924436415083
+    second: heartshealth 1_533
+  - first:
+      213: -1577081522500631536
+    second: heartshealth 1_534
+  - first:
+      213: 6622070022151593707
+    second: heartshealth 1_535
+  - first:
+      213: 8912703653329632073
+    second: heartshealth 1_536
+  - first:
+      213: 8309947442335593108
+    second: heartshealth 1_537
+  - first:
+      213: -4243709789090755264
+    second: heartshealth 1_538
+  - first:
+      213: 8406904691244144198
+    second: heartshealth 1_539
+  - first:
+      213: -5303953707146686105
+    second: heartshealth 1_540
+  - first:
+      213: -6785759983557045783
+    second: heartshealth 1_541
+  - first:
+      213: 2051111816414578087
+    second: heartshealth 1_542
+  - first:
+      213: -4518706005255453055
+    second: heartshealth 1_543
+  - first:
+      213: -6537755113763887677
+    second: heartshealth 1_544
+  - first:
+      213: 3554369545242266320
+    second: heartshealth 1_545
+  - first:
+      213: -4129254748326817165
+    second: heartshealth 1_546
+  - first:
+      213: 7579537128950629858
+    second: heartshealth 1_547
+  - first:
+      213: 3396294568679008577
+    second: heartshealth 1_548
+  - first:
+      213: -5468398430862948785
+    second: heartshealth 1_549
+  - first:
+      213: -3939148762601663633
+    second: heartshealth 1_550
+  - first:
+      213: -1629373517898573207
+    second: heartshealth 1_551
+  - first:
+      213: 6193737690376775157
+    second: heartshealth 1_552
+  - first:
+      213: 4492846792697566989
+    second: heartshealth 1_553
+  - first:
+      213: 779426806799159783
+    second: heartshealth 1_554
+  - first:
+      213: -205229640583525582
+    second: heartshealth 1_555
+  - first:
+      213: 6036016192578808727
+    second: heartshealth 1_556
+  - first:
+      213: -5151412060635868731
+    second: heartshealth 1_557
+  - first:
+      213: 3701086843933889092
+    second: heartshealth 1_558
+  - first:
+      213: 6029511047479823337
+    second: heartshealth 1_559
+  - first:
+      213: -8603050739559081118
+    second: heartshealth 1_560
+  - first:
+      213: -9027809073492286128
+    second: heartshealth 1_561
+  - first:
+      213: -4724772186599553990
+    second: heartshealth 1_562
+  - first:
+      213: -4057480434218299172
+    second: heartshealth 1_563
+  - first:
+      213: -6369105530113294139
+    second: heartshealth 1_564
+  - first:
+      213: 2794562774345195688
+    second: heartshealth 1_565
+  - first:
+      213: -8885574708180404910
+    second: heartshealth 1_566
+  - first:
+      213: -3198077750956873447
+    second: heartshealth 1_567
+  - first:
+      213: 1527093036760803551
+    second: heartshealth 1_568
+  - first:
+      213: -2886649697854513175
+    second: heartshealth 1_569
+  - first:
+      213: 8063841817931578417
+    second: heartshealth 1_570
+  - first:
+      213: -995436170698797164
+    second: heartshealth 1_571
+  - first:
+      213: 6702194147129756796
+    second: heartshealth 1_572
+  - first:
+      213: 5320675141778238679
+    second: heartshealth 1_573
+  - first:
+      213: -1046809158809442248
+    second: heartshealth 1_574
+  - first:
+      213: 1650543752292515952
+    second: heartshealth 1_575
+  - first:
+      213: 1428978333983335746
+    second: heartshealth 1_576
+  - first:
+      213: 4517056476306823293
+    second: heartshealth 1_577
+  - first:
+      213: 1917638318228069990
+    second: heartshealth 1_578
+  - first:
+      213: 3076077107769190259
+    second: heartshealth 1_579
+  - first:
+      213: -590663773296824143
+    second: heartshealth 1_580
+  - first:
+      213: 9037885339391302188
+    second: heartshealth 1_581
+  - first:
+      213: 3406004914913339345
+    second: heartshealth 1_582
+  - first:
+      213: 6741246585241016878
+    second: heartshealth 1_583
+  - first:
+      213: -8540901744843687812
+    second: heartshealth 1_584
+  - first:
+      213: -5354457165474779045
+    second: heartshealth 1_585
+  - first:
+      213: -6851192603084237653
+    second: heartshealth 1_586
+  - first:
+      213: -6009735421144121420
+    second: heartshealth 1_587
+  - first:
+      213: -260815779825735069
+    second: heartshealth 1_588
+  - first:
+      213: -8227919103881116161
+    second: heartshealth 1_589
+  - first:
+      213: -8722546294285862208
+    second: heartshealth 1_590
+  - first:
+      213: -4150710065752787168
+    second: heartshealth 1_591
+  - first:
+      213: -6581083578869163123
+    second: heartshealth 1_592
+  - first:
+      213: -2073168640110904282
+    second: heartshealth 1_593
+  - first:
+      213: 5360393088438493807
+    second: heartshealth 1_594
+  - first:
+      213: -8142233007573754165
+    second: heartshealth 1_595
+  - first:
+      213: -1598239851373524724
+    second: heartshealth 1_596
+  - first:
+      213: -1910282880414695314
+    second: heartshealth 1_597
+  - first:
+      213: -2639679906311549963
+    second: heartshealth 1_598
+  - first:
+      213: 7731209196125954520
+    second: heartshealth 1_599
+  - first:
+      213: 6320993137548599016
+    second: heartshealth 1_600
+  - first:
+      213: -3584839146144634537
+    second: heartshealth 1_601
+  - first:
+      213: 7974356619241955632
+    second: heartshealth 1_602
+  - first:
+      213: 3371366622677843245
+    second: heartshealth 1_603
+  - first:
+      213: -5054458827387618075
+    second: heartshealth 1_604
+  - first:
+      213: 8944169408241783273
+    second: heartshealth 1_605
+  - first:
+      213: 6661443475743872507
+    second: heartshealth 1_606
+  - first:
+      213: 1813783715161080441
+    second: heartshealth 1_607
+  - first:
+      213: -4116858533908067278
+    second: heartshealth 1_608
+  - first:
+      213: 275223083379222100
+    second: heartshealth 1_609
+  - first:
+      213: -156119262208448253
+    second: heartshealth 1_610
+  - first:
+      213: -6441842989413168917
+    second: heartshealth 1_611
+  - first:
+      213: -3853615952691841441
+    second: heartshealth 1_612
+  - first:
+      213: 377797368307779758
+    second: heartshealth 1_613
+  - first:
+      213: -357274438371678598
+    second: heartshealth 1_614
+  - first:
+      213: 7363340721303740245
+    second: heartshealth 1_615
+  - first:
+      213: -2965409356592983394
+    second: heartshealth 1_616
+  - first:
+      213: 7049233388677857662
+    second: heartshealth 1_617
+  - first:
+      213: -491762907793458890
+    second: heartshealth 1_618
+  - first:
+      213: -2920369792868040893
+    second: heartshealth 1_619
+  - first:
+      213: -2320139358781427175
+    second: heartshealth 1_620
+  - first:
+      213: -3025162758351632294
+    second: heartshealth 1_621
+  - first:
+      213: -5171989112695459633
+    second: heartshealth 1_622
+  - first:
+      213: -4757137378460875809
+    second: heartshealth 1_623
+  - first:
+      213: -1794191113624611114
+    second: heartshealth 1_624
+  - first:
+      213: -2429008817792227283
+    second: heartshealth 1_625
+  - first:
+      213: -3871409551165038524
+    second: heartshealth 1_626
+  - first:
+      213: -7864668789186946540
+    second: heartshealth 1_627
+  - first:
+      213: 1590667930663342978
+    second: heartshealth 1_628
+  - first:
+      213: 7417477596420223570
+    second: heartshealth 1_629
+  - first:
+      213: 3898522405525264071
+    second: heartshealth 1_630
+  - first:
+      213: -3423262599535207579
+    second: heartshealth 1_631
+  - first:
+      213: -5978215477717243182
+    second: heartshealth 1_632
+  - first:
+      213: 8832534370950727376
+    second: heartshealth 1_633
+  - first:
+      213: 819980780036346562
+    second: heartshealth 1_634
+  - first:
+      213: -3354694655094296947
+    second: heartshealth 1_635
+  - first:
+      213: 3774165824746858438
+    second: heartshealth 1_636
+  - first:
+      213: 6864077787271125979
+    second: heartshealth 1_637
+  - first:
+      213: 4660968405545679214
+    second: heartshealth 1_638
+  - first:
+      213: 291788220945965130
+    second: heartshealth 1_639
+  - first:
+      213: -4108410032159444343
+    second: heartshealth 1_640
+  - first:
+      213: -466874771837485608
+    second: heartshealth 1_641
+  - first:
+      213: 3729748778173417102
+    second: heartshealth 1_642
+  - first:
+      213: 345248872112326209
+    second: heartshealth 1_643
+  - first:
+      213: -8432554595813328987
+    second: heartshealth 1_644
+  - first:
+      213: -2248174056328731887
+    second: heartshealth 1_645
+  - first:
+      213: -4445211787609918369
+    second: heartshealth 1_646
+  - first:
+      213: -7869382286806087836
+    second: heartshealth 1_647
+  - first:
+      213: 7271360949457860437
+    second: heartshealth 1_648
+  - first:
+      213: -7471477080366754778
+    second: heartshealth 1_649
+  - first:
+      213: 1530977110419532287
+    second: heartshealth 1_650
+  - first:
+      213: 8919809038965403721
+    second: heartshealth 1_651
+  - first:
+      213: 6415220620398492972
+    second: heartshealth 1_652
+  - first:
+      213: -8324745921283008718
+    second: heartshealth 1_653
+  - first:
+      213: 3497888780939377388
+    second: heartshealth 1_654
+  - first:
+      213: -4883216392847691206
+    second: heartshealth 1_655
+  - first:
+      213: 3176536997452651229
+    second: heartshealth 1_656
+  - first:
+      213: 6879336563001928271
+    second: heartshealth 1_657
+  - first:
+      213: -1798935114113653793
+    second: heartshealth 1_658
+  - first:
+      213: 8808065726386467482
+    second: heartshealth 1_659
+  - first:
+      213: 3347639798888555587
+    second: heartshealth 1_660
+  - first:
+      213: -664637079186668616
+    second: heartshealth 1_661
+  - first:
+      213: -8350879968003582022
+    second: heartshealth 1_662
+  - first:
+      213: 406133815272233596
+    second: heartshealth 1_663
+  - first:
+      213: 6691748355709432121
+    second: heartshealth 1_664
+  - first:
+      213: 3191473762576208688
+    second: heartshealth 1_665
+  - first:
+      213: -8018794074860991655
+    second: heartshealth 1_666
+  - first:
+      213: 5039166046792208220
+    second: heartshealth 1_667
+  - first:
+      213: -6724461210092548083
+    second: heartshealth 1_668
+  - first:
+      213: -3362466776928031670
+    second: heartshealth 1_669
+  - first:
+      213: -5050543156498138330
+    second: heartshealth 1_670
+  - first:
+      213: 8305159266121808362
+    second: heartshealth 1_671
+  - first:
+      213: 3965379734639004629
+    second: heartshealth 1_672
+  - first:
+      213: 4424121784188441475
+    second: heartshealth 1_673
+  - first:
+      213: 7731263692528305725
+    second: heartshealth 1_674
+  - first:
+      213: 8668827930968901498
+    second: heartshealth 1_675
+  - first:
+      213: 8370010588145661708
+    second: heartshealth 1_676
+  - first:
+      213: 5131821910492334469
+    second: heartshealth 1_677
+  - first:
+      213: -1687895434554745953
+    second: heartshealth 1_678
+  - first:
+      213: 1830872306167686370
+    second: heartshealth 1_679
+  - first:
+      213: -3171507917260626399
+    second: heartshealth 1_680
+  - first:
+      213: 7550173091932162859
+    second: heartshealth 1_681
+  - first:
+      213: -5689937897212398524
+    second: heartshealth 1_682
+  - first:
+      213: 7637987578167237720
+    second: heartshealth 1_683
+  - first:
+      213: 3734716188910225243
+    second: heartshealth 1_684
+  - first:
+      213: -8634817837604459357
+    second: heartshealth 1_685
+  - first:
+      213: 8465364900373210982
+    second: heartshealth 1_686
+  - first:
+      213: -4935917212999504824
+    second: heartshealth 1_687
+  - first:
+      213: 3426949583702522742
+    second: heartshealth 1_688
+  - first:
+      213: 2106945182805002500
+    second: heartshealth 1_689
+  - first:
+      213: -6881463459890702087
+    second: heartshealth 1_690
+  - first:
+      213: -4225914097625091566
+    second: heartshealth 1_691
+  - first:
+      213: 5912708560500626613
+    second: heartshealth 1_692
+  - first:
+      213: 5548571196931591863
+    second: heartshealth 1_693
+  - first:
+      213: 3258721722904463391
+    second: heartshealth 1_694
+  - first:
+      213: -7478059846709302711
+    second: heartshealth 1_695
+  - first:
+      213: -912427770478256680
+    second: heartshealth 1_696
+  - first:
+      213: -4185334734793221612
+    second: heartshealth 1_697
+  - first:
+      213: -4727488602159614630
+    second: heartshealth 1_698
+  - first:
+      213: 7936177589048490178
+    second: heartshealth 1_699
+  - first:
+      213: 7617537064342950661
+    second: heartshealth 1_700
+  - first:
+      213: 1107919350032156631
+    second: heartshealth 1_701
+  - first:
+      213: 5141759159864143913
+    second: heartshealth 1_702
+  - first:
+      213: -8729148037043839475
+    second: heartshealth 1_703
+  - first:
+      213: -3272081498556389110
+    second: heartshealth 1_704
+  - first:
+      213: -686383331636611888
+    second: heartshealth 1_705
+  - first:
+      213: 7235106232270261319
+    second: heartshealth 1_706
+  - first:
+      213: 1285431531502664488
+    second: heartshealth 1_707
+  - first:
+      213: -3327435690359020435
+    second: heartshealth 1_708
+  - first:
+      213: 3431983099009648530
+    second: heartshealth 1_709
+  - first:
+      213: 3736971236098933139
+    second: heartshealth 1_710
+  - first:
+      213: -2728703987802730465
+    second: heartshealth 1_711
+  - first:
+      213: 3327857915156693650
+    second: heartshealth 1_712
+  - first:
+      213: -8332258599474940244
+    second: heartshealth 1_713
+  - first:
+      213: -7329890984173619745
+    second: heartshealth 1_714
+  - first:
+      213: -2766756556408540097
+    second: heartshealth 1_715
+  - first:
+      213: -9184786723328175053
+    second: heartshealth 1_716
+  - first:
+      213: -1635372941141583473
+    second: heartshealth 1_717
+  - first:
+      213: 5740883156699913479
+    second: heartshealth 1_718
+  - first:
+      213: 7138043667626530576
+    second: heartshealth 1_719
+  - first:
+      213: -6035806990940806322
+    second: heartshealth 1_720
+  - first:
+      213: 7692515100607258156
+    second: heartshealth 1_721
+  - first:
+      213: 7692678354270234406
+    second: heartshealth 1_722
+  - first:
+      213: 2406742429669071494
+    second: heartshealth 1_723
+  - first:
+      213: -757686688128705692
+    second: heartshealth 1_724
+  - first:
+      213: -1914421584525954039
+    second: heartshealth 1_725
+  - first:
+      213: -7609879180512529770
+    second: heartshealth 1_726
+  - first:
+      213: 4549029637787107412
+    second: heartshealth 1_727
+  - first:
+      213: -4046308691411389815
+    second: heartshealth 1_728
+  - first:
+      213: 3636488909407486068
+    second: heartshealth 1_729
+  - first:
+      213: -2065833958896753055
+    second: heartshealth 1_730
+  - first:
+      213: -475426091010163228
+    second: heartshealth 1_731
+  - first:
+      213: -4751341222995783068
+    second: heartshealth 1_732
+  - first:
+      213: 7730103930511654195
+    second: heartshealth 1_733
+  - first:
+      213: 288468508579808114
+    second: heartshealth 1_734
+  - first:
+      213: -4392338439641442212
+    second: heartshealth 1_735
+  - first:
+      213: 8966263918060750470
+    second: heartshealth 1_736
+  - first:
+      213: -3485730840046947357
+    second: heartshealth 1_737
+  - first:
+      213: -4859255900719103162
+    second: heartshealth 1_738
+  - first:
+      213: -846831485609760941
+    second: heartshealth 1_739
+  - first:
+      213: -2649543054738269904
+    second: heartshealth 1_740
+  - first:
+      213: -8843016972057448802
+    second: heartshealth 1_741
+  - first:
+      213: 5890925852457768678
+    second: heartshealth 1_742
+  - first:
+      213: 5100663321724852509
+    second: heartshealth 1_743
+  - first:
+      213: 3772941807875596851
+    second: heartshealth 1_744
+  - first:
+      213: 1201615241795820157
+    second: heartshealth 1_745
+  - first:
+      213: 4217479027012846644
+    second: heartshealth 1_746
+  - first:
+      213: -8970268456230054537
+    second: heartshealth 1_747
+  - first:
+      213: 8166926673337130969
+    second: heartshealth 1_748
+  - first:
+      213: 2625222716731056107
+    second: heartshealth 1_749
+  - first:
+      213: -6909645016209867206
+    second: heartshealth 1_750
+  - first:
+      213: 1418239386161268450
+    second: heartshealth 1_751
+  - first:
+      213: -8062152342243708825
+    second: heartshealth 1_752
+  - first:
+      213: -2164888436169539748
+    second: heartshealth 1_753
+  - first:
+      213: -6642832793997019618
+    second: heartshealth 1_754
+  - first:
+      213: -5583348617200923604
+    second: heartshealth 1_755
+  - first:
+      213: -5425931494809036664
+    second: heartshealth 1_756
+  - first:
+      213: -8733767821039178443
+    second: heartshealth 1_757
+  - first:
+      213: 707661644490631868
+    second: heartshealth 1_758
+  - first:
+      213: 7789079474465647343
+    second: heartshealth 1_759
+  - first:
+      213: -998269023827465480
+    second: heartshealth 1_760
+  - first:
+      213: 8953815313319415033
+    second: heartshealth 1_761
+  - first:
+      213: 419845833613339901
+    second: heartshealth 1_762
+  - first:
+      213: -3796601203606779193
+    second: heartshealth 1_763
+  - first:
+      213: 897732130897564731
+    second: heartshealth 1_764
+  - first:
+      213: 7837607204186556174
+    second: heartshealth 1_765
+  - first:
+      213: 9038695565867534312
+    second: heartshealth 1_766
+  - first:
+      213: 7422774761708153901
+    second: heartshealth 1_767
+  - first:
+      213: -1213896283975387778
+    second: heartshealth 1_768
+  - first:
+      213: -3444136005655062109
+    second: heartshealth 1_769
+  - first:
+      213: -378331516166855341
+    second: heartshealth 1_770
+  - first:
+      213: 2221592566853460329
+    second: heartshealth 1_771
+  - first:
+      213: -3695212000314427761
+    second: heartshealth 1_772
+  - first:
+      213: -676018932643623690
+    second: heartshealth 1_773
+  - first:
+      213: -8133069325529666139
+    second: heartshealth 1_774
+  - first:
+      213: -6622480840491929358
+    second: heartshealth 1_775
+  - first:
+      213: -6781696827806432827
+    second: heartshealth 1_776
+  - first:
+      213: 3386940963929005594
+    second: heartshealth 1_777
+  - first:
+      213: 9000096380292092613
+    second: heartshealth 1_778
+  - first:
+      213: -1124492958642949795
+    second: heartshealth 1_779
+  - first:
+      213: 8051514318037850115
+    second: heartshealth 1_780
+  - first:
+      213: -2514661367250152344
+    second: heartshealth 1_781
+  - first:
+      213: 3640618773863919402
+    second: heartshealth 1_782
+  - first:
+      213: -5733069053033579700
+    second: heartshealth 1_783
+  - first:
+      213: -2679158698740047245
+    second: heartshealth 1_784
+  - first:
+      213: -1080654957555530691
+    second: heartshealth 1_785
+  - first:
+      213: -4511662771690343803
+    second: heartshealth 1_786
+  - first:
+      213: 3201445617452441202
+    second: heartshealth 1_787
+  - first:
+      213: 64305106972346818
+    second: heartshealth 1_788
+  - first:
+      213: 5650283396304962176
+    second: heartshealth 1_789
+  - first:
+      213: -7477356660894190041
+    second: heartshealth 1_790
+  - first:
+      213: 8174405694815809743
+    second: heartshealth 1_791
+  - first:
+      213: 7547441284801444984
+    second: heartshealth 1_792
+  - first:
+      213: -7451073821169220929
+    second: heartshealth 1_793
+  - first:
+      213: -8821934225656905699
+    second: heartshealth 1_794
+  - first:
+      213: 3883805760950868842
+    second: heartshealth 1_795
+  - first:
+      213: -3760862537365041884
+    second: heartshealth 1_796
+  - first:
+      213: 937182151165984642
+    second: heartshealth 1_797
+  - first:
+      213: 816641063239351223
+    second: heartshealth 1_798
+  - first:
+      213: -1038259258044712103
+    second: heartshealth 1_799
+  - first:
+      213: 8740547231407080259
+    second: heartshealth 1_800
+  - first:
+      213: 3313222468903648973
+    second: heartshealth 1_801
+  - first:
+      213: -3288578825982835561
+    second: heartshealth 1_802
+  - first:
+      213: 5962182846059739956
+    second: heartshealth 1_803
+  - first:
+      213: 4931526634400134081
+    second: heartshealth 1_804
+  - first:
+      213: -8178868218501246882
+    second: heartshealth 1_805
+  - first:
+      213: -184487776472532612
+    second: heartshealth 1_806
+  - first:
+      213: -7346758413837197316
+    second: heartshealth 1_807
+  - first:
+      213: 8076650405398420772
+    second: heartshealth 1_808
+  - first:
+      213: 3863428155276542216
+    second: heartshealth 1_809
+  - first:
+      213: 1366362664627817602
+    second: heartshealth 1_810
+  - first:
+      213: 6497779280929851368
+    second: heartshealth 1_811
+  - first:
+      213: 6769405863162467719
+    second: heartshealth 1_812
+  - first:
+      213: 8352625188462349989
+    second: heartshealth 1_813
+  - first:
+      213: 4450942035955562670
+    second: heartshealth 1_814
+  - first:
+      213: -8886293010631227853
+    second: heartshealth 1_815
+  - first:
+      213: 6218234781171475294
+    second: heartshealth 1_816
+  - first:
+      213: -2274778077691496081
+    second: heartshealth 1_817
+  - first:
+      213: -2994408300244364401
+    second: heartshealth 1_818
+  - first:
+      213: -5676460381894991279
+    second: heartshealth 1_819
+  - first:
+      213: -6644776026527132120
+    second: heartshealth 1_820
+  - first:
+      213: -1723582513303792444
+    second: heartshealth 1_821
+  - first:
+      213: 2746154332431049916
+    second: heartshealth 1_822
+  - first:
+      213: 6991050689003162991
+    second: heartshealth 1_823
+  - first:
+      213: 7286197001591071931
+    second: heartshealth 1_824
+  - first:
+      213: 4814082312612548055
+    second: heartshealth 1_825
+  - first:
+      213: -4894007010860412939
+    second: heartshealth 1_826
+  - first:
+      213: -7550885886720046744
+    second: heartshealth 1_827
+  - first:
+      213: -84144004021541939
+    second: heartshealth 1_828
+  - first:
+      213: 6670368118815927933
+    second: heartshealth 1_829
+  - first:
+      213: -8324734335916085166
+    second: heartshealth 1_830
+  - first:
+      213: 2906306460481168855
+    second: heartshealth 1_831
+  - first:
+      213: 8503174881782928697
+    second: heartshealth 1_832
+  - first:
+      213: -8954418573064550401
+    second: heartshealth 1_833
+  - first:
+      213: -292561904247298536
+    second: heartshealth 1_834
+  - first:
+      213: 6454023812332727998
+    second: heartshealth 1_835
+  - first:
+      213: 5573372898584214707
+    second: heartshealth 1_836
+  - first:
+      213: -8813966932073859045
+    second: heartshealth 1_837
+  - first:
+      213: 4888574829842884029
+    second: heartshealth 1_838
+  - first:
+      213: -2517415809983313482
+    second: heartshealth 1_839
+  - first:
+      213: -6664236790691711655
+    second: heartshealth 1_840
+  - first:
+      213: 7985917522162381773
+    second: heartshealth 1_841
+  - first:
+      213: 3067497160427871956
+    second: heartshealth 1_842
+  - first:
+      213: 6519927656551164795
+    second: heartshealth 1_843
+  - first:
+      213: 1755397957175927837
+    second: heartshealth 1_844
+  - first:
+      213: -6974781286764368180
+    second: heartshealth 1_845
+  - first:
+      213: 8331620471477679548
+    second: heartshealth 1_846
+  - first:
+      213: -8790265345205080943
+    second: heartshealth 1_847
+  - first:
+      213: -368186395767432098
+    second: heartshealth 1_848
+  - first:
+      213: 2499010074899012157
+    second: heartshealth 1_849
+  - first:
+      213: 2683368069388374309
+    second: heartshealth 1_850
+  - first:
+      213: -8029467885822783999
+    second: heartshealth 1_851
+  - first:
+      213: -8330138050582003760
+    second: heartshealth 1_852
+  - first:
+      213: 5619357269397061610
+    second: heartshealth 1_853
+  - first:
+      213: -5234785001942030491
+    second: heartshealth 1_854
+  - first:
+      213: 7213757502765085117
+    second: heartshealth 1_855
+  - first:
+      213: 3245473551267200981
+    second: heartshealth 1_856
+  - first:
+      213: 2800920366288023459
+    second: heartshealth 1_857
+  - first:
+      213: -5683293604287235240
+    second: heartshealth 1_858
+  - first:
+      213: 2131250507679925810
+    second: heartshealth 1_859
+  - first:
+      213: 6469857374989873957
+    second: heartshealth 1_860
+  - first:
+      213: -7907067073888037878
+    second: heartshealth 1_861
+  - first:
+      213: 5060953147098626408
+    second: heartshealth 1_862
+  - first:
+      213: -3291854506717739278
+    second: heartshealth 1_863
+  - first:
+      213: -1917119159930238518
+    second: heartshealth 1_864
+  - first:
+      213: 2101201052614356979
+    second: heartshealth 1_865
+  - first:
+      213: -2479937244300335662
+    second: heartshealth 1_866
+  - first:
+      213: 3779051472431656049
+    second: heartshealth 1_867
+  - first:
+      213: -9193160310641670739
+    second: heartshealth 1_868
+  - first:
+      213: -3209778408076365443
+    second: heartshealth 1_869
+  - first:
+      213: 1179947618444544358
+    second: heartshealth 1_870
+  - first:
+      213: -4261644085560072654
+    second: heartshealth 1_871
+  - first:
+      213: 8263403389601102681
+    second: heartshealth 1_872
+  - first:
+      213: 550520664353835576
+    second: heartshealth 1_873
+  - first:
+      213: -2688630170161746452
+    second: heartshealth 1_874
+  - first:
+      213: 6006481101333334789
+    second: heartshealth 1_875
+  - first:
+      213: -8216911695155759732
+    second: heartshealth 1_876
+  - first:
+      213: 239944578966482098
+    second: heartshealth 1_877
+  - first:
+      213: -6470927075657106359
+    second: heartshealth 1_878
+  - first:
+      213: 1973760747089769155
+    second: heartshealth 1_879
+  - first:
+      213: 6175493426379467930
+    second: heartshealth 1_880
+  - first:
+      213: 8884842313045187516
+    second: heartshealth 1_881
+  - first:
+      213: -3671342686620877251
+    second: heartshealth 1_882
+  - first:
+      213: -320068983409300885
+    second: heartshealth 1_883
+  - first:
+      213: 2933054781141016732
+    second: heartshealth 1_884
+  - first:
+      213: -7396774665528741759
+    second: heartshealth 1_885
+  - first:
+      213: -3129729161541116157
+    second: heartshealth 1_886
+  - first:
+      213: -4118490647553083029
+    second: heartshealth 1_887
+  - first:
+      213: -8581411654061160030
+    second: heartshealth 1_888
+  - first:
+      213: -744351980667642898
+    second: heartshealth 1_889
+  - first:
+      213: -6272231624739406539
+    second: heartshealth 1_890
+  - first:
+      213: -3587003586619921090
+    second: heartshealth 1_891
+  - first:
+      213: -8745354410494902359
+    second: heartshealth 1_892
+  - first:
+      213: 6034376912604278782
+    second: heartshealth 1_893
+  - first:
+      213: 3938517778016658424
+    second: heartshealth 1_894
+  - first:
+      213: 3251979934978261240
+    second: heartshealth 1_895
+  - first:
+      213: 2927557312115180238
+    second: heartshealth 1_896
+  - first:
+      213: -5007850861759966340
+    second: heartshealth 1_897
+  - first:
+      213: 8510133178692812557
+    second: heartshealth 1_898
+  - first:
+      213: 335857020261626837
+    second: heartshealth 1_899
+  - first:
+      213: 6471691544296678857
+    second: heartshealth 1_900
+  - first:
+      213: 1136641247546637220
+    second: heartshealth 1_901
+  - first:
+      213: 1953607452441229906
+    second: heartshealth 1_902
+  - first:
+      213: -7814448769771381152
+    second: heartshealth 1_903
+  - first:
+      213: 2744170628007309454
+    second: heartshealth 1_904
+  - first:
+      213: 6941047521173367456
+    second: heartshealth 1_905
+  - first:
+      213: -4350185064817785954
+    second: heartshealth 1_906
+  - first:
+      213: -4420826299578550939
+    second: heartshealth 1_907
+  - first:
+      213: 5379172283835594285
+    second: heartshealth 1_908
+  - first:
+      213: -6161831727634410845
+    second: heartshealth 1_909
+  - first:
+      213: -5308909400188513781
+    second: heartshealth 1_910
+  - first:
+      213: 8166055144663898773
+    second: heartshealth 1_911
+  - first:
+      213: -8528510855700780932
+    second: heartshealth 1_912
+  - first:
+      213: -5984485451346998041
+    second: heartshealth 1_913
+  - first:
+      213: 8681948025145317714
+    second: heartshealth 1_914
+  - first:
+      213: 305607087110807234
+    second: heartshealth 1_915
+  - first:
+      213: 1599936073335136869
+    second: heartshealth 1_916
+  - first:
+      213: -6550383826577498313
+    second: heartshealth 1_917
+  - first:
+      213: -3654402724062082646
+    second: heartshealth 1_918
+  - first:
+      213: 8237332738544323994
+    second: heartshealth 1_919
+  - first:
+      213: -1920271357090699348
+    second: heartshealth 1_920
+  - first:
+      213: 7933794746734544604
+    second: heartshealth 1_921
+  - first:
+      213: 8846075072349677732
+    second: heartshealth 1_922
+  - first:
+      213: -6560484154811080808
+    second: heartshealth 1_923
+  - first:
+      213: 9001394288272211695
+    second: heartshealth 1_924
+  - first:
+      213: 1782867229785018983
+    second: heartshealth 1_925
+  - first:
+      213: -7572199082863361181
+    second: heartshealth 1_926
+  - first:
+      213: 6017779633419864893
+    second: heartshealth 1_927
+  - first:
+      213: -8899085416989579432
+    second: heartshealth 1_928
+  - first:
+      213: 8650039197222731642
+    second: heartshealth 1_929
+  - first:
+      213: 2396661087943685197
+    second: heartshealth 1_930
+  - first:
+      213: -8317961139961909822
+    second: heartshealth 1_931
+  - first:
+      213: -165417339686735976
+    second: heartshealth 1_932
+  - first:
+      213: -3461810031351541781
+    second: heartshealth 1_933
+  - first:
+      213: -5800475511854564443
+    second: heartshealth 1_934
+  - first:
+      213: 3545856581929082519
+    second: heartshealth 1_935
+  - first:
+      213: -2934768919308047623
+    second: heartshealth 1_936
+  - first:
+      213: -2853529187624877970
+    second: heartshealth 1_937
+  - first:
+      213: -8323273131929366215
+    second: heartshealth 1_938
+  - first:
+      213: 7919042848355184469
+    second: heartshealth 1_939
+  - first:
+      213: 2671628557557438278
+    second: heartshealth 1_940
+  - first:
+      213: 5152640926453192919
+    second: heartshealth 1_941
+  - first:
+      213: -654919352877688171
+    second: heartshealth 1_942
+  - first:
+      213: 810140950244847247
+    second: heartshealth 1_943
+  - first:
+      213: -6431864631571242245
+    second: heartshealth 1_944
+  - first:
+      213: -3422872688810540112
+    second: heartshealth 1_945
+  - first:
+      213: 7483362169800943923
+    second: heartshealth 1_946
+  - first:
+      213: 8541838184163223190
+    second: heartshealth 1_947
+  - first:
+      213: 4465106789380160624
+    second: heartshealth 1_948
+  - first:
+      213: -5399128981247934856
+    second: heartshealth 1_949
+  - first:
+      213: 9135839811246420703
+    second: heartshealth 1_950
+  - first:
+      213: 4267932052951405961
+    second: heartshealth 1_951
+  - first:
+      213: 3536337991299887594
+    second: heartshealth 1_952
+  - first:
+      213: 3188432609847009022
+    second: heartshealth 1_953
+  - first:
+      213: 4229663399564596373
+    second: heartshealth 1_954
+  - first:
+      213: 1902326172160837103
+    second: heartshealth 1_955
+  - first:
+      213: -1769061892050994023
+    second: heartshealth 1_956
+  - first:
+      213: -3944697239726896112
+    second: heartshealth 1_957
+  - first:
+      213: -4532844889861001586
+    second: heartshealth 1_958
+  - first:
+      213: -2258496539072171387
+    second: heartshealth 1_959
+  - first:
+      213: -5512132617038672061
+    second: heartshealth 1_960
+  - first:
+      213: 5388056712585043139
+    second: heartshealth 1_961
+  - first:
+      213: -5036123372370778349
+    second: heartshealth 1_962
+  - first:
+      213: 1775566557440881223
+    second: heartshealth 1_963
+  - first:
+      213: -884462129633772233
+    second: heartshealth 1_964
+  - first:
+      213: 5453377228774667691
+    second: heartshealth 1_965
+  - first:
+      213: 4308053781272427729
+    second: heartshealth 1_966
+  - first:
+      213: -228474632029441469
+    second: heartshealth 1_967
+  - first:
+      213: 3819231228218847009
+    second: heartshealth 1_968
+  - first:
+      213: 7850079146353869766
+    second: heartshealth 1_969
+  - first:
+      213: -5774469387163969271
+    second: heartshealth 1_970
+  - first:
+      213: 349629307750500909
+    second: heartshealth 1_971
+  - first:
+      213: 6786639228038829133
+    second: heartshealth 1_972
+  - first:
+      213: -5288965962972511226
+    second: heartshealth 1_973
+  - first:
+      213: -958636818828224288
+    second: heartshealth 1_974
+  - first:
+      213: -2711697717759342728
+    second: heartshealth 1_975
+  - first:
+      213: -4914373187984584932
+    second: heartshealth 1_976
+  - first:
+      213: 98203979916063042
+    second: heartshealth 1_977
+  - first:
+      213: 8650420792708119159
+    second: heartshealth 1_978
+  - first:
+      213: 1078186608749930019
+    second: heartshealth 1_979
+  - first:
+      213: 8906220941911332043
+    second: heartshealth 1_980
+  - first:
+      213: -1427343706630869585
+    second: heartshealth 1_981
+  - first:
+      213: -8482756505901304042
+    second: heartshealth 1_982
+  - first:
+      213: 1270330412794533142
+    second: heartshealth 1_983
+  - first:
+      213: -502740202903329017
+    second: heartshealth 1_984
+  - first:
+      213: -5153241765042363725
+    second: heartshealth 1_985
+  - first:
+      213: -4355818738004627422
+    second: heartshealth 1_986
+  - first:
+      213: -5603248863193809261
+    second: heartshealth 1_987
+  - first:
+      213: -832455322914227757
+    second: heartshealth 1_988
+  - first:
+      213: 787432675703744782
+    second: heartshealth 1_989
+  - first:
+      213: 23000721308361242
+    second: heartshealth 1_990
+  - first:
+      213: -2101989320895510415
+    second: heartshealth 1_991
+  - first:
+      213: -1840226181493829809
+    second: heartshealth 1_992
+  - first:
+      213: -4386134411710802694
+    second: heartshealth 1_993
+  - first:
+      213: 661020319994121547
+    second: heartshealth 1_994
+  - first:
+      213: -3015852704706117353
+    second: heartshealth 1_995
+  - first:
+      213: 1904075073912226324
+    second: heartshealth 1_996
+  - first:
+      213: -5606949801126447361
+    second: heartshealth 1_997
+  - first:
+      213: 7298606941760009439
+    second: heartshealth 1_998
+  - first:
+      213: 3302236696597584832
+    second: heartshealth 1_999
+  - first:
+      213: 8064444205596571526
+    second: heartshealth 1_1000
+  - first:
+      213: 8398087584898177366
+    second: heartshealth 1_1001
+  - first:
+      213: 3693383586726072805
+    second: heartshealth 1_1002
+  - first:
+      213: -4206132518197080396
+    second: heartshealth 1_1003
+  - first:
+      213: 3285653304067601775
+    second: heartshealth 1_1004
+  - first:
+      213: -2273676341148684953
+    second: heartshealth 1_1005
+  - first:
+      213: -3384700814076789092
+    second: heartshealth 1_1006
+  - first:
+      213: -2225284848945158807
+    second: heartshealth 1_1007
+  - first:
+      213: 3994137331811314875
+    second: heartshealth 1_1008
+  - first:
+      213: 8415806178255835379
+    second: heartshealth 1_1009
+  - first:
+      213: -5564163576112059370
+    second: heartshealth 1_1010
+  - first:
+      213: 1214259053347185236
+    second: heartshealth 1_1011
+  - first:
+      213: 241541441069558257
+    second: heartshealth 1_1012
+  - first:
+      213: -5907517363669031035
+    second: heartshealth 1_1013
+  - first:
+      213: -6564724296334624045
+    second: heartshealth 1_1014
+  - first:
+      213: 6620726267463528428
+    second: heartshealth 1_1015
+  - first:
+      213: -1161105062230161311
+    second: heartshealth 1_1016
+  - first:
+      213: 7501604749103828151
+    second: heartshealth 1_1017
+  - first:
+      213: 4655615157415248173
+    second: heartshealth 1_1018
+  - first:
+      213: -6104162263899412269
+    second: heartshealth 1_1019
+  - first:
+      213: -1313977185390400122
+    second: heartshealth 1_1020
+  - first:
+      213: -4663339400295581734
+    second: heartshealth 1_1021
+  - first:
+      213: 2162329312963130620
+    second: heartshealth 1_1022
+  - first:
+      213: 7680586273883748547
+    second: heartshealth 1_1023
+  - first:
+      213: -8815985818146352809
+    second: heartshealth 1_1024
+  - first:
+      213: -4786698740057098881
+    second: heartshealth 1_1025
+  - first:
+      213: 1902124696435289632
+    second: heartshealth 1_1026
+  - first:
+      213: -8318899454596851832
+    second: heartshealth 1_1027
+  - first:
+      213: -6785108279316212886
+    second: heartshealth 1_1028
+  - first:
+      213: 5058897448314155303
+    second: heartshealth 1_1029
+  - first:
+      213: 4016824721311364564
+    second: heartshealth 1_1030
+  - first:
+      213: 8103641845331936399
+    second: heartshealth 1_1031
+  - first:
+      213: -2847171735136188677
+    second: heartshealth 1_1032
+  - first:
+      213: -7144398597811454528
+    second: heartshealth 1_1033
+  - first:
+      213: -1129788333410853220
+    second: heartshealth 1_1034
+  - first:
+      213: 74920851736822619
+    second: heartshealth 1_1035
+  - first:
+      213: 143544521600749705
+    second: heartshealth 1_1036
+  - first:
+      213: -6088902519731188266
+    second: heartshealth 1_1037
+  - first:
+      213: -7846896271272249991
+    second: heartshealth 1_1038
+  - first:
+      213: 3215271570268399084
+    second: heartshealth 1_1039
+  - first:
+      213: 8613475454924824493
+    second: heartshealth 1_1040
+  - first:
+      213: 5839691903080000278
+    second: heartshealth 1_1041
+  - first:
+      213: 220174182605963688
+    second: heartshealth 1_1042
+  - first:
+      213: 2852418710400057650
+    second: heartshealth 1_1043
+  - first:
+      213: 9205389189455452815
+    second: heartshealth 1_1044
+  - first:
+      213: 8655830644086594522
+    second: heartshealth 1_1045
+  - first:
+      213: -1476052254163290961
+    second: heartshealth 1_1046
+  - first:
+      213: -7679303286060631447
+    second: heartshealth 1_1047
+  - first:
+      213: -4905674761727213589
+    second: heartshealth 1_1048
+  - first:
+      213: 7861309721551459158
+    second: heartshealth 1_1049
+  - first:
+      213: -6401786457046602929
+    second: heartshealth 1_1050
+  - first:
+      213: 1382787983246823302
+    second: heartshealth 1_1051
+  - first:
+      213: 778027051135949635
+    second: heartshealth 1_1052
+  - first:
+      213: -4290923159859548484
+    second: heartshealth 1_1053
+  - first:
+      213: 8498582160657432953
+    second: heartshealth 1_1054
+  - first:
+      213: -1358769586234565584
+    second: heartshealth 1_1055
+  - first:
+      213: -5742926520825990019
+    second: heartshealth 1_1056
+  - first:
+      213: 4565466503227788458
+    second: heartshealth 1_1057
+  - first:
+      213: 5894343951062772405
+    second: heartshealth 1_1058
+  - first:
+      213: -7974562257722996403
+    second: heartshealth 1_1059
+  - first:
+      213: -374116104521912654
+    second: heartshealth 1_1060
+  - first:
+      213: 6037556803789293884
+    second: heartshealth 1_1061
+  - first:
+      213: -901868520370113686
+    second: heartshealth 1_1062
+  - first:
+      213: 5792642435048881181
+    second: heartshealth 1_1063
+  - first:
+      213: 402639385770454985
+    second: heartshealth 1_1064
+  - first:
+      213: -144898060752338419
+    second: heartshealth 1_1065
+  - first:
+      213: 2379045024190630205
+    second: heartshealth 1_1066
+  - first:
+      213: -3502786272008992299
+    second: heartshealth 1_1067
+  - first:
+      213: 7708151726047038274
+    second: heartshealth 1_1068
+  - first:
+      213: -6511100666693063543
+    second: heartshealth 1_1069
+  - first:
+      213: -3379062291646055992
+    second: heartshealth 1_1070
+  - first:
+      213: -5827048036256598429
+    second: heartshealth 1_1071
+  - first:
+      213: 4463505392168193675
+    second: heartshealth 1_1072
+  - first:
+      213: 4089215532138746770
+    second: heartshealth 1_1073
+  - first:
+      213: -4889851139208488450
+    second: heartshealth 1_1074
+  - first:
+      213: 4683355130908906730
+    second: heartshealth 1_1075
+  - first:
+      213: -6837069684176674065
+    second: heartshealth 1_1076
+  - first:
+      213: 6673278009338914128
+    second: heartshealth 1_1077
+  - first:
+      213: -6179464874366328688
+    second: heartshealth 1_1078
+  - first:
+      213: -2488736742830244680
+    second: heartshealth 1_1079
+  - first:
+      213: 891297205363052807
+    second: heartshealth 1_1080
+  - first:
+      213: -9040683279748389875
+    second: heartshealth 1_1081
+  - first:
+      213: -6285947230295909515
+    second: heartshealth 1_1082
+  - first:
+      213: 7276927712548149059
+    second: heartshealth 1_1083
+  - first:
+      213: -2921908210662502951
+    second: heartshealth 1_1084
+  - first:
+      213: -441724173729643545
+    second: heartshealth 1_1085
+  - first:
+      213: -8438083220735072607
+    second: heartshealth 1_1086
+  - first:
+      213: -7355610326761197807
+    second: heartshealth 1_1087
+  - first:
+      213: 8751548853591651767
+    second: heartshealth 1_1088
+  - first:
+      213: -2901184801056839832
+    second: heartshealth 1_1089
+  - first:
+      213: -3103723857561497126
+    second: heartshealth 1_1090
+  - first:
+      213: -4312703396424025367
+    second: heartshealth 1_1091
+  - first:
+      213: -4669291068537007253
+    second: heartshealth 1_1092
+  - first:
+      213: -6745735473675196116
+    second: heartshealth 1_1093
+  - first:
+      213: -4653902331978603813
+    second: heartshealth 1_1094
+  - first:
+      213: 3672184190587273305
+    second: heartshealth 1_1095
+  - first:
+      213: 4881262433472251040
+    second: heartshealth 1_1096
+  - first:
+      213: 1779544757061212961
+    second: heartshealth 1_1097
+  - first:
+      213: -1166783952848079943
+    second: heartshealth 1_1098
+  - first:
+      213: -6998785963839666597
+    second: heartshealth 1_1099
+  - first:
+      213: 63485937032631779
+    second: heartshealth 1_1100
+  - first:
+      213: -2787382359904615443
+    second: heartshealth 1_1101
+  - first:
+      213: -4738464352224742776
+    second: heartshealth 1_1102
+  - first:
+      213: -1883943724129054051
+    second: heartshealth 1_1103
+  - first:
+      213: 8384209477662199059
+    second: heartshealth 1_1104
+  - first:
+      213: -5169484075502314458
+    second: heartshealth 1_1105
+  - first:
+      213: -7907022479138065043
+    second: heartshealth 1_1106
+  - first:
+      213: -2944866321964178572
+    second: heartshealth 1_1107
+  - first:
+      213: 5958118937146966860
+    second: heartshealth 1_1108
+  - first:
+      213: -7020323535291372940
+    second: heartshealth 1_1109
+  - first:
+      213: 5401520799603637104
+    second: heartshealth 1_1110
+  - first:
+      213: -1949807336295682083
+    second: heartshealth 1_1111
+  - first:
+      213: -2121403183172584917
+    second: heartshealth 1_1112
+  - first:
+      213: -6649101132886804809
+    second: heartshealth 1_1113
+  - first:
+      213: 6077144282841840246
+    second: heartshealth 1_1114
+  - first:
+      213: 7140557552783073740
+    second: heartshealth 1_1115
+  - first:
+      213: 1191985442421695616
+    second: heartshealth 1_1116
+  - first:
+      213: 4146129637123873654
+    second: heartshealth 1_1117
+  - first:
+      213: -9198445670198273786
+    second: heartshealth 1_1118
+  - first:
+      213: 6916478275329739253
+    second: heartshealth 1_1119
+  - first:
+      213: -3041138048954200697
+    second: heartshealth 1_1120
+  - first:
+      213: -6990597952664097405
+    second: heartshealth 1_1121
+  - first:
+      213: 9024321572653156269
+    second: heartshealth 1_1122
+  - first:
+      213: -3035262039646781386
+    second: heartshealth 1_1123
+  - first:
+      213: 6953781575625080442
+    second: heartshealth 1_1124
+  - first:
+      213: -7964717440378701541
+    second: heartshealth 1_1125
+  - first:
+      213: -3525944451247725465
+    second: heartshealth 1_1126
+  - first:
+      213: -4865565200471342513
+    second: heartshealth 1_1127
+  - first:
+      213: -4516096049022927704
+    second: heartshealth 1_1128
+  - first:
+      213: 2313228608856014666
+    second: heartshealth 1_1129
+  - first:
+      213: -5364605083044688474
+    second: heartshealth 1_1130
+  - first:
+      213: 8131283427774654111
+    second: heartshealth 1_1131
+  - first:
+      213: 1900667085645310055
+    second: heartshealth 1_1132
+  - first:
+      213: -2701415021158029408
+    second: heartshealth 1_1133
+  - first:
+      213: 2617798963551145853
+    second: heartshealth 1_1134
+  - first:
+      213: -9127813106481494527
+    second: heartshealth 1_1135
+  - first:
+      213: -8707790764486967238
+    second: heartshealth 1_1136
+  - first:
+      213: 3638781482164477859
+    second: heartshealth 1_1137
+  - first:
+      213: -7535863007180312998
+    second: heartshealth 1_1138
+  - first:
+      213: 285553832712135932
+    second: heartshealth 1_1139
+  - first:
+      213: 1478117839325097983
+    second: heartshealth 1_1140
+  - first:
+      213: 476193695737198115
+    second: heartshealth 1_1141
+  - first:
+      213: -7409763886624793515
+    second: heartshealth 1_1142
+  - first:
+      213: 4005137411254555028
+    second: heartshealth 1_1143
+  - first:
+      213: 8149945157006528932
+    second: heartshealth 1_1144
+  - first:
+      213: 4354039838748546688
+    second: heartshealth 1_1145
+  - first:
+      213: -2149675235170805961
+    second: heartshealth 1_1146
+  - first:
+      213: -2603382035239221891
+    second: heartshealth 1_1147
+  - first:
+      213: -7470611501228100262
+    second: heartshealth 1_1148
+  - first:
+      213: -1841675237151187188
+    second: heartshealth 1_1149
+  - first:
+      213: -5505168612570632754
+    second: heartshealth 1_1150
+  - first:
+      213: -4617562808295383634
+    second: heartshealth 1_1151
+  - first:
+      213: 849727290630564716
+    second: heartshealth 1_1152
+  - first:
+      213: -8893530348142822057
+    second: heartshealth 1_1153
+  - first:
+      213: 6367178192265691290
+    second: heartshealth 1_1154
+  - first:
+      213: -2982541847726164781
+    second: heartshealth 1_1155
+  - first:
+      213: 4526193013695259577
+    second: heartshealth 1_1156
+  - first:
+      213: 5587824695778299567
+    second: heartshealth 1_1157
+  - first:
+      213: -1406293359614478188
+    second: heartshealth 1_1158
+  - first:
+      213: -6053987080261271162
+    second: heartshealth 1_1159
+  - first:
+      213: -7631641448165315935
+    second: heartshealth 1_1160
+  - first:
+      213: -128497694555654798
+    second: heartshealth 1_1161
+  - first:
+      213: 6495636941310623753
+    second: heartshealth 1_1162
+  - first:
+      213: -1494707377944373221
+    second: heartshealth 1_1163
+  - first:
+      213: -922412200326033774
+    second: heartshealth 1_1164
+  - first:
+      213: 4025330241993093903
+    second: heartshealth 1_1165
+  - first:
+      213: 5514977746335298053
+    second: heartshealth 1_1166
+  - first:
+      213: -738558345271678825
+    second: heartshealth 1_1167
+  - first:
+      213: -2730908397675310031
+    second: heartshealth 1_1168
+  - first:
+      213: 3390690434479714077
+    second: heartshealth 1_1169
+  - first:
+      213: 4217293327345734317
+    second: heartshealth 1_1170
+  - first:
+      213: 3795511280250519732
+    second: heartshealth 1_1171
+  - first:
+      213: 8542391417668112742
+    second: heartshealth 1_1172
+  - first:
+      213: -1899951530825972692
+    second: heartshealth 1_1173
+  - first:
+      213: 3641694649548111356
+    second: heartshealth 1_1174
+  - first:
+      213: 1121093336187512455
+    second: heartshealth 1_1175
+  - first:
+      213: -9073226721324564609
+    second: heartshealth 1_1176
+  - first:
+      213: 325277244946760879
+    second: heartshealth 1_1177
+  - first:
+      213: 1599257535900740949
+    second: heartshealth 1_1178
+  - first:
+      213: -3430918433174078949
+    second: heartshealth 1_1179
+  - first:
+      213: -8492522150762216385
+    second: heartshealth 1_1180
+  - first:
+      213: 5054182187640709480
+    second: heartshealth 1_1181
+  - first:
+      213: -6660105749026960177
+    second: heartshealth 1_1182
+  - first:
+      213: 5874881544807941284
+    second: heartshealth 1_1183
+  - first:
+      213: 8056346170337402875
+    second: heartshealth 1_1184
+  - first:
+      213: 3687139799027091861
+    second: heartshealth 1_1185
+  - first:
+      213: 1842431038576534061
+    second: heartshealth 1_1186
+  - first:
+      213: 7794261918343045204
+    second: heartshealth 1_1187
+  - first:
+      213: -5964721020979953720
+    second: heartshealth 1_1188
+  - first:
+      213: -4387697595023636052
+    second: heartshealth 1_1189
+  - first:
+      213: -7768909254707594658
+    second: heartshealth 1_1190
+  - first:
+      213: -3966462484893031726
+    second: heartshealth 1_1191
+  - first:
+      213: -2893544976667133819
+    second: heartshealth 1_1192
+  - first:
+      213: 6716229557584686067
+    second: heartshealth 1_1193
+  - first:
+      213: -7088758940834028875
+    second: heartshealth 1_1194
+  - first:
+      213: -8395239012049511574
+    second: heartshealth 1_1195
+  - first:
+      213: -6628943811147788997
+    second: heartshealth 1_1196
+  - first:
+      213: -9083512656550069850
+    second: heartshealth 1_1197
+  - first:
+      213: -5520182519754580750
+    second: heartshealth 1_1198
+  - first:
+      213: -8202991567893790167
+    second: heartshealth 1_1199
+  - first:
+      213: -7698574490232496565
+    second: heartshealth 1_1200
+  - first:
+      213: 6750870656961864253
+    second: heartshealth 1_1201
+  - first:
+      213: -7540061286938790463
+    second: heartshealth 1_1202
+  - first:
+      213: -4594402250936667467
+    second: heartshealth 1_1203
+  - first:
+      213: 2619759093527337651
+    second: heartshealth 1_1204
+  - first:
+      213: -4714410628683615022
+    second: heartshealth 1_1205
+  - first:
+      213: 6408893383562655092
+    second: heartshealth 1_1206
+  - first:
+      213: 7266916236755127125
+    second: heartshealth 1_1207
+  - first:
+      213: 4068479400220554446
+    second: heartshealth 1_1208
+  - first:
+      213: -6938857747862987239
+    second: heartshealth 1_1209
+  - first:
+      213: 989099134552287074
+    second: heartshealth 1_1210
+  - first:
+      213: -7669563166901054575
+    second: heartshealth 1_1211
+  - first:
+      213: 4217939628705937878
+    second: heartshealth 1_1212
+  - first:
+      213: -1461515483540183484
+    second: heartshealth 1_1213
+  - first:
+      213: -3077656734979644531
+    second: heartshealth 1_1214
+  - first:
+      213: 7978558839634535856
+    second: heartshealth 1_1215
+  - first:
+      213: 3268576870921478709
+    second: heartshealth 1_1216
+  - first:
+      213: -3383840963289754758
+    second: heartshealth 1_1217
+  - first:
+      213: 6132213039674162642
+    second: heartshealth 1_1218
+  - first:
+      213: 1163954722941349267
+    second: heartshealth 1_1219
+  - first:
+      213: -7729063062131019883
+    second: heartshealth 1_1220
+  - first:
+      213: -6974655702986326521
+    second: heartshealth 1_1221
+  - first:
+      213: -2175552930921100443
+    second: heartshealth 1_1222
+  - first:
+      213: 5530428558830821397
+    second: heartshealth 1_1223
+  - first:
+      213: 1595438919231466822
+    second: heartshealth 1_1224
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heartshealth 1_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 241
+        width: 202
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec782a4dc35a7920800000000000000
+      internalID: 2988793443891313888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heartshealth 1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 198
+        width: 201
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add82a5ee57c65c70800000000000000
+      internalID: 8959567719093669338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heartshealth 1_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 154
+        width: 205
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fa693b2eb7fa790800000000000000
+      internalID: -7516653039452246264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heartshealth 1_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 117
+        width: 204
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8863ef819c1d8330800000000000000
+      internalID: 3714656679160408202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heartshealth 1_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 80
+        width: 204
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f5eea1bc9210480800000000000000
+      internalID: -8934814233419423902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heartshealth 1_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 42
+        width: 204
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d14374c30716470800000000000000
+      internalID: 8386107385335520595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

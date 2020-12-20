@@ -7,6 +7,11 @@ TagManager:
   - Ground
   - CanBePickedUp
   - Endpoint
+  - VirtualCamera
+  - CheckPoint
+  - InstantDeath
+  - CameraConfiner
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -18,11 +23,11 @@ TagManager:
   - 
   - Ground
   - Background
-  - Characters
+  - CameraConfiner
   - Consumables
   - Wall
   - Player
-  - 
+  - Enemies
   - 
   - 
   - 
@@ -52,6 +57,9 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 395927883
+    locked: 0
+  - name: Traps
+    uniqueID: 1544448821
     locked: 0
   - name: Consumables
     uniqueID: 441831465

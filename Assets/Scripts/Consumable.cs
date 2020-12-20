@@ -6,8 +6,8 @@ using UnityEngine;
 public class Consumable : MonoBehaviour
 {
     Animator animator;
-    Coroutine disappearCoroutine;
     ParticleSystem particles;
+    public AnimationClip disappear;
     
     private void Start()
     {
@@ -29,18 +29,8 @@ public class Consumable : MonoBehaviour
             if (gameObject.activeInHierarchy)
             {
                 animator.SetTrigger("collected");
-               
-                if (disappearCoroutine == null)
-                {
-                    disappearCoroutine = StartCoroutine(Disappear());
-                }
+                Destroy(gameObject, disappear.length);
             }
         }
-    }
-
-    private IEnumerator Disappear()
-    {
-        yield return new WaitForSeconds(0.5f);
-        gameObject.SetActive(false);
     }
 }
