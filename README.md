@@ -7,6 +7,6 @@ Wasd and arrow keys to move.
 Space to jump.
 Hold s or down arrow to fall through platforms.
 
- To see the source code, go to Assets -> Scripts.
+ To see the source code, go to Contents -> Assets -> Scripts.
 
 I hope you enjoy it. :)
