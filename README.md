@@ -12,4 +12,7 @@ Hold s or down arrow to fall through platforms.
 
 To see the source code, go to Contents -> Assets -> Scripts.
 
+If everything looks confusing, just go here -> https://drive.google.com/drive/folders/1VeDKJu6wv1qE1qgZSuBYegJEiN0DW6jS?usp=sharing
+
+
 I hope you enjoy it. :)
