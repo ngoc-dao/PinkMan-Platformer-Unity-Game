@@ -7,9 +7,9 @@ Download the game_windows file for Windows.
 How to Play:
  - Extract all files after you download. 
  - Use esc key in-game to exit application. 
- - Wasd and arrow keys to move.
- - Space to jump.
- - Hold s or down arrow to fall through platforms.
+ - WASD and arrow keys to move.
+ - SPACE to jump.
+ - Hold S or down arrow to fall through platforms.
 
 To see the source code, go to Contents -> Assets -> Scripts.
 
